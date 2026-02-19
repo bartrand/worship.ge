@@ -1,0 +1,72 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Contact" description="Get in touch with Worship.ge — we'd love to hear from you.">
+  <div class="page-header">
+    <h1>Contact Us</h1>
+    <p>We'd love to hear from you. Reach out any time.</p>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: start; max-width: 900px;">
+
+        <!-- Contact details -->
+        <div>
+          <h2 class="section-title">Find Us</h2>
+          <p class="section-subtitle">Come visit or connect online.</p>
+          <div class="cards" style="grid-template-columns: 1fr;">
+            <div class="card">
+              <h3>📍 Address</h3>
+              <p>123 Faith Street, Tbilisi, Georgia</p>
+            </div>
+            <div class="card">
+              <h3>📧 Email</h3>
+              <p><a href="mailto:hello@worship.ge">hello@worship.ge</a></p>
+            </div>
+            <div class="card">
+              <h3>🕐 Service Times</h3>
+              <p>Sunday 10:00 AM · Wednesday 7:00 PM</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact form (static — wire to Formspree or similar) -->
+        <div>
+          <h2 class="section-title">Send a Message</h2>
+          <p class="section-subtitle" style="margin-bottom: 1.5rem;">We'll get back to you within 48 hours.</p>
+          <!--
+            TIP: For a free static form backend, sign up at https://formspree.io
+            and replace the action URL below with your endpoint.
+          -->
+          <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="form-group">
+            <label>
+              Name
+              <input type="text" name="name" required placeholder="Your name" />
+            </label>
+            <label>
+              Email
+              <input type="email" name="email" required placeholder="your@email.com" />
+            </label>
+            <label>
+              Message
+              <textarea name="message" required placeholder="How can we help?"></textarea>
+            </label>
+            <button type="submit">Send Message</button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  /* Responsive two-column → single column */
+  @media (max-width: 680px) {
+    div[style*="grid-template-columns: 1fr 1fr"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>

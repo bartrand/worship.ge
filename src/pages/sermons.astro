@@ -1,0 +1,65 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+// Placeholder sermon data — replace with a CMS or markdown collection later
+const sermons = [
+  {
+    title: 'The God Who Draws Near',
+    speaker: 'Pastor John',
+    date: '16 Feb 2026',
+    series: 'The Character of God',
+    scripture: 'James 4:8',
+    audioUrl: '#',
+  },
+  {
+    title: 'Grace Sufficient',
+    speaker: 'Pastor John',
+    date: '9 Feb 2026',
+    series: 'Letters of Paul',
+    scripture: '2 Corinthians 12:9',
+    audioUrl: '#',
+  },
+  {
+    title: 'A Living Hope',
+    speaker: 'Pastor Mark',
+    date: '2 Feb 2026',
+    series: 'First Peter',
+    scripture: '1 Peter 1:3–5',
+    audioUrl: '#',
+  },
+  {
+    title: 'Walk in the Light',
+    speaker: 'Pastor John',
+    date: '26 Jan 2026',
+    series: 'First John',
+    scripture: '1 John 1:5–10',
+    audioUrl: '#',
+  },
+];
+---
+
+<Layout title="Sermons" description="Listen to recent sermons and messages from Worship.ge.">
+  <div class="page-header">
+    <h1>Sermons</h1>
+    <p>Recent messages from our Sunday services.</p>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div class="sermon-list">
+        {sermons.map((s) => (
+          <article class="sermon-item">
+            <div>
+              <h3>{s.title}</h3>
+              <p class="sermon-meta">{s.series} · {s.scripture}</p>
+              <p class="sermon-meta">{s.speaker} — {s.date}</p>
+            </div>
+            <a href={s.audioUrl} class="btn" style="white-space: nowrap; background: var(--color-primary); color: #fff;">
+              ▶ Listen
+            </a>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
