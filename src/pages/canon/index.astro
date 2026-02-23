@@ -133,18 +133,30 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
         text-align: center;
       }
       .prose h1, .prose h3, .prose h4 { font-style: italic; }
-      .prose h2 { font-style: normal; font-variant: small-caps; letter-spacing: 0.06em; }
+      .prose h2 { font-size: 1.4em; font-style: normal; font-variant: small-caps; letter-spacing: 0.06em; }
       .prose h1 { font-size: 1.55rem; }
-      .prose h2 { font-size: 1.5rem; }
       .prose h3 { font-size: 1.15em; }
 
       .prose p {
-        margin-bottom: 1rem;
+        margin: 0;
+        text-indent: 1.5em;
+      }
+
+      /* No indent on first paragraph after a heading or rule */
+      .prose h1 + p, .prose h2 + p, .prose h3 + p, .prose h4 + p,
+      .prose hr + p, .prose blockquote + p {
+        text-indent: 0;
+      }
+
+      /* Triple line break: spaced, unindented new paragraph */
+      .prose p.new-section {
+        margin-top: 1.25em;
+        text-indent: 0;
       }
 
       .prose strong {
         font-weight: 400;
-        font-size: 0.8em;
+        font-size: 0.7em;
         text-transform: uppercase;
         letter-spacing: 0.08em;
         color: var(--accent);

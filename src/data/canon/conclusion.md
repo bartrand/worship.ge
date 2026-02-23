@@ -1,4 +1,10 @@
-## Concluding Psalms
+## The Prayer of St. Ephrem
+
+O Lord and Master of my life, give me not a spirit of sloth, despair, lust off power, and idle talk. **(Prostration)**
+But give rather a spirit of chastity, humility, patience, and love to thy servant. **(Prostration)**
+Yea, O Lord and King, grant me to see my own transgressions, and not to judge my brother; for blessed art thou unto ages of ages. Amen. **(Prostration)**
+
+## Small Compline (resumed)
 
 ### Psalm 50
 
@@ -44,4 +50,28 @@ Then shall they offer bullocks upon thine altar.
 
 ### Psalm 142
 
-On 
+Hear my prayer, O Lord; give ear to my supplication in thy truth; hearken unto me in thy righteousness.
+
+And enter not into judgment with thy servant, for in thy sight shall no man living be justified.
+
+For the enemy has persecuted my soul; he has humbled my life down to the ground; he has set me in dark places, like those long dead.
+
+And my spirit was despondent within me; my heart within me was troubled.
+
+I remembered days of old; I meditated on all thy deeds; on the works of thy hands did I meditate.
+
+I spread forth my hands unto thee; my soul thirsts for thee like a waterless land.
+
+Hear me speedily, O Lord; my spirit has failed; turn not thy face away from me, lest I become like those that go down to the pit.
+
+Cause me to hear thy mercy in the morning, for I have hoped in thee; make known to me, O Lord, the way wherein I should walk, for I have lifted my soul up to thee.
+
+Deliver me from mine enemies, O Lord, for I have fled unto thee for refuge.
+
+Teach me to do thy will, for thou art my God.
+
+Thy good Spirit shall guide me in the land of uprightness.
+
+Thou shalt quicken me, O Lord, for thy Name’s sake; in thy righteousness thou shalt bring my soul out of affliction.
+
+And in thy mercy thou wilt lay waste mine enemies; and thou wilt destroy all those that afflict my soul, for I am thy servant. 

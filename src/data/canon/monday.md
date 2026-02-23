@@ -22,6 +22,7 @@ In the place of the physical Eve, the temptation of Eve hath taken flesh in my m
 
 Adam was rightly banished from Eden, O Savior, because he disobeyed one of Thy commandments. What then shall I suffer, for constantly rejecting Thy words of life?
 
+
 _Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Trinity, Who surpasses all creation and is adored in Unity, take from me the heavy yoke of sin, and in Thy compassion grant me tears of compunction.
@@ -62,6 +63,7 @@ I looked upon the beauty of the forbidden tree and my mind was deceived; and now
 
 The demons of passion have ploughed long furrows on my back, prolonging their wickedness upon me.
 
+
 _Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** I sing praises to the One in Three Persons, God of all, Father, Son and Holy Spirit.
@@ -91,6 +93,7 @@ Thou art the Good Shepherd: seek me, the lamb that has gone astray and do not fo
 Thou art my sweet Jesus, Thou art my Creator, and in Thee shall I be justified, O Savior.
 
 I confess that I have sinned, I have sinned against Thee, O Savior. But in Thy compassion absolve me and forgive me.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
@@ -124,6 +127,7 @@ Bearing the burning heat by day and the frost by night because of his privation,
 
 By the two wives, understand that one is action and the other is spiritual understanding in contemplation. Leah represents action, for she had many children; and Rachel spiritual understanding, for she endured great toil. For without labor, O my soul, neither action nor contemplation will succeed.
 
+
 _Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** I confess Thee as undivided in Essence, unconfused in Persons, One Triune Divinity, co-reigning and co-enthroned! And to Thee, I raise the great Thrice-holy hymn that is sung on high.
@@ -152,6 +156,7 @@ O my miserable and wretched soul, imitate the righteous and chaste mind of Josep
 
 When Joseph was cast down into the pit, O Lord and Master, it was to prefigure Thy Burial and Resurrection. But what offering such as this shall I ever make to Thee?
 
+
 _Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** We glorify Thee, O Trinity, as One God! Holy, Holy, Holy, art Thou, Father, Son and Holy Spirit; simple Essence and Unity worshipped for ever.
@@ -175,6 +180,7 @@ Thou hast turned thyself away from thy Lord, O my soul, as did Dathan and Abiram
 Do not be like Ephraim stung to madness like a stampeding calf, O my soul, but rather, save thy life like a gazelle fleeing from the snare on the wings of action, resolve and contemplation.
 
 Let the hand of Moses assure us, O my soul, that God can cleanse and make again as white as snow a leprous life. So do not despair, though thou thyself art leprous.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
@@ -206,6 +212,7 @@ David once joined sin to sin when he mixed adultery with murder; yet then he sho
 
 David once composed a hymn, setting forth, as in an icon, all the evils he had done; and he condemned them, crying, ‘Have mercy on me, for against Thee only have I sinned, O God of all, cleanse me!’
 
+
 _Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Trinity, simple and undivided, consubstantial and of One Nature. We praise Thee, Light and Lights, One Holy and Three Holies, God the Trinity! Sing, O my soul, and glorify the Life of Lives, the God of all.
@@ -233,6 +240,7 @@ With the mantle of Elijah, Elisha made the streams of the Jordan stand still on 
 The Shunammite woman graciously gave shelter to the righteous man, but thou, O my soul, hast welcomed neither stranger nor traveler into thy house. Therefore shalt thou be cast out weeping from the bridal chamber.
 
 In all ways hast thou imitated the unclean thoughts of Gehazi, O my wretched soul. At least now, in thine old age, rid thyself of his greed and flee from the fires of hell, turning away from thine evil ways.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
