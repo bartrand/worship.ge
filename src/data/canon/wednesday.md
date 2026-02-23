@@ -1,12 +1,12 @@
-> ON WEDNESDAY OF THE FIRST WEEK OF GREAT LENT DURING THE GRAND COMPLINE, WE BEGIN THE THIRD SECTION OF THE GREAT CANON AFTER THE READING OF PSALM 69 (70). THE REFRAINS ARE SUNG AFTER EACH TROPARION. AT EACH REFRAIN WE MAKE THE SIGN OF THE CROSS AND A FULL PROSTRATION.
+**The refrains are sung after each troparion. At each refrain we make the sign of the cross and a full prostration.**
 
 ## ODE 1
 
-*Tone 6*
+_Tone 6_
 
 **Irmos:** A helper and a protector, He has become my salvation. This is my God, I will glorify Him, my father’s God will I exalt, for gloriously has He been glorified.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -24,11 +24,11 @@ Venerable Mother Mary, pray to God for us.
 
 To St Mary of Egypt: Grant me that illuminating Grace which was given thee by Providence on High, that I may escape the darkness of my passions and praise the glorious feats of thy life, O Mother Mary.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Trinity, Who surpasses all creation and is adored in Unity, take from me the heavy yoke of sin, and in Thy compassion grant me tears of compunction.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** O Theotokos, the hope and protection of those who praise thee, take from me the heavy yoke of sin and as thou art our Most-pure Lady, accept me in repentance.
 
@@ -36,7 +36,7 @@ To St Mary of Egypt: Grant me that illuminating Grace which was given thee by Pr
 
 **Irmos:** Attend, O heaven and I will speak, I will sing of Christ, Who from the Virgin took flesh to dwell with us.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -58,7 +58,7 @@ Most Holy Theotokos, save us
 
 Another Irmos: See, see that I am God, Who sent manna, Who made water to spring from the rock in ancient times for My people in the wilderness, by My right hand, and by My strength alone.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -74,11 +74,11 @@ Venerable Mother Mary, pray to God for us.
 
 To St Mary of Egypt: Turning from the path of sin thou didst run with all eagerness to Christ, O Venerable Mother Mary, finding nourishment in the trackless wilderness and fulfilling in purity the commandments of God.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Trinity unoriginate and uncreated, O Unity undivided: accept me in repentance and save me, a sinner. Despise me not, for I am Thy creation; but spare me and deliver me from the fire of condemnation.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** O Most-pure Lady, Mother of God, the hope of those who run to thee and haven of the storm-tossed and oppressed; pray to the merciful God, thy Creator and thy Son, that He will have mercy on me through thine intercessions.
 
@@ -86,7 +86,7 @@ To St Mary of Egypt: Turning from the path of sin thou didst run with all eagern
 
 **Irmos:** Establish, O Lord, my unstable heart on the rock of Thy command- ments, for Thou only art Holy and the Lord.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -110,11 +110,11 @@ Venerable Mother Mary, pray to God for us.
 
 To St Mary of Egypt: Offer thy fervent supplications to the compassionate Mother of God, O Venerable Mary, and through thine intercessions open unto me the door that leads to God.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O simple Unity praised in a Trinity of Persons; O uncreated Nature without beginning, save us who in faith worship Thy power.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** O Virgin Theotokos, thou hast given birth within time to the timeless Son of the Father. O strange wonder! Thou givest Him milk while still remaining Virgin!
 
@@ -122,7 +122,7 @@ To St Mary of Egypt: Offer thy fervent supplications to the compassionate Mother
 
 **Irmos:** The prophet heard of Thy coming, O Lord, and was afraid that Thou wast to be born of a Virgin and appear to men, and he said, ‘I have heard the report of Thee and am afraid.’ Glory to Thy power, O Lord.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -140,11 +140,11 @@ Thy Life-giving side, O my Savior, has been granted to the Church as a chalice f
 
 I am deprived of the bridal chamber and of the wedding feast because my lamp has gone out for want of oil; the chamber was closed while I was asleep, and the supper has been eaten; I am bound both hand and foot and now I am cast out.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** I confess Thee as undivided in Essence, unconfused in Persons, One Triune Divinity, co-reigning and co-enthroned! And to Thee, I raise the great Thrice-holy hymn that is sung on high.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Thou givest birth and art a virgin, and in both thou remainest a virgin by nature. He Who is born renews the laws of nature, and the womb gives birth without travail. When God so wills, the order of nature is overruled, for He does whatsoever He wills.
 
@@ -152,7 +152,7 @@ I am deprived of the bridal chamber and of the wedding feast because my lamp has
 
 **Irmos:** Out of the night watching early for Thee, enlighten me I pray, O Lover of man, and guide me in Thy commandments and teach me O Savior, to do Thy will.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -170,11 +170,11 @@ Venerable Mother Mary, pray to God for us.
 
 To St Mary of Egypt: Having crossed the stream of the Jordan, thou didst find peace by escaping the temptations of the flesh. Deliver us from them also, O Venerable Mother Mary, through thine intercessions.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** We glorify Thee, O Trinity, as One God! Holy, Holy, Holy, art Thou, Father, Son and Holy Spirit; simple Essence and Unity worshipped for ever.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** From thee, O Virgin undefiled and maiden Mother, has God the Creator of the ages, become vested in my human flesh, uniting to Himself the nature of man.
 
@@ -182,7 +182,7 @@ To St Mary of Egypt: Having crossed the stream of the Jordan, thou didst find pe
 
 **Irmos:** With my whole heart, I cried unto the compassionate God: and He heard me, and He lifted up my soul from the depths of hell and from corruption.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -194,11 +194,11 @@ As Thou hast saved Peter when he cried, ‘Save me’, come quickly and save me 
 
 I know Thee as the calm haven, O Lord and Master Christ: come quickly, and deliver me from the lowest abyss of sin and despair.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** ‘I am the Trinity, simple and undivided, yet divided in Three Persons; and I am the Unity, united by Nature’, says the Father and the Son and the Divine Spirit.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Thy womb bore God for us, fashioned in our image. Implore thou Him as the Creator of all, O Theotokos, that we may be justified through thine intercessions. Kontakion (TONE 6): My soul, my soul arise! Why art thou sleeping? The end is drawing near and thou wilt be confounded. Awake then and be watchful, that thou mayest be spared by Christ God, Who is everywhere and fillest all things.
 
@@ -206,7 +206,7 @@ I know Thee as the calm haven, O Lord and Master Christ: come quickly, and deliv
 
 **Irmos:** We have sinned, transgressed, done wrong before Thee. We have not watched or done as Thou hast commanded us. But do not give us up utterly, O God of our fathers.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -218,11 +218,11 @@ Heaven is closed to thee, O my soul, and a famine from God has seized thee; for 
 
 Elijah once destroyed by fire one hundred of Jezebel’s servants when he destroyed her shameful prophets as a reproof against Ahab. Oh, flee their example, my soul, and be thou made strong.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Trinity, simple and undivided, consubstantial and of One Nature. We praise Thee, Light and Lights, One Holy and Three Holies, God the Trinity! Sing, O my soul, and glorify the Life of Lives, the God of all.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** We praise thee, we bless thee, we venerate thee, O Mother of God: for thou hast given birth to Christ God, One of the undivided Trinity, and hast opened the Heavens to us on earth.
 
@@ -230,7 +230,7 @@ Elijah once destroyed by fire one hundred of Jezebel’s servants when he destro
 
 **Irmos:** Him whom the hosts of heaven glorify, whom the Cherubim and Seraphim dread, let every breath and creature praise, bless and magnify throughout all ages.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -242,11 +242,11 @@ Heal, O Savior, the corruption of my humbled soul; and as the One Physician, app
 
 Like the woman of Canaan, I cry to Thee, ‘Have mercy on me, O Son of David.’ Like the woman with the issue of blood, I touch the hem of Thy garment; and I weep as Martha and Mary wept for Lazarus.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Eternal Father, Co-eternal Son and Gracious Comforter, the Spirit of Righteousness, Father of the Divine Word, Word of the Eternal Father, and Living and Creating Spirit. O Trinity, One in Unity, have mercy on me!
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** The spiritual purple of Emmanuel was woven inside thy womb as if from scarlet silk, O Most-pure Virgin. Therefore we honor thee as truly Theotokos.
 
@@ -254,7 +254,7 @@ Like the woman of Canaan, I cry to Thee, ‘Have mercy on me, O Son of David.’
 
 **Irmos:** Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -270,15 +270,15 @@ Thou knowest, O my soul, how the cities to which Christ offered the Gospel were 
 
 Do not be overcome with despair, O my soul, for thou hast heard of the faith of the woman of Canaan, and how her daughter was healed by the Word of God. Cry out like her from the depth of thy heart, ‘O Son of David, save me’, as she once cried to Christ.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** Let us glorify the Father, let us exalt the Son and with faith let us worship the Divine and Holy Spirit, the Trinity undivided, Unity in Essence; Light of Lights, Life and Lives, giving light and life to the ends of the earth.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Protect this, thy habitation, O Most-pure Mother of God, for through thee she reigns in faith, by thee she is made strong, by thee she is made victorious defeating every trial and temptation, despoiling every enemy and ruling over her obedient servants.
 
-*Venerable Father Andrew, pray to God for us.*
+_Venerable Father Andrew, pray to God for us._
 
 **To Saint Andrew:** O Venerable and Thrice-blessèd Father Andrew, the shepherd of Crete; cease not to offer thy prayers for us who sing thy praises; that we may be delivered from every danger and affliction, from corruption and sin, who honor thy memory with faith.
 
@@ -286,4 +286,4 @@ Do not be overcome with despair, O my soul, for thou hast heard of the faith of 
 
 ---
 
-*NOW THE READER CONTINUES WITH PSALM 4 AND THE REST OF THE GRAND COMPLINE FOLLOWS.*
+_NOW THE READER CONTINUES WITH PSALM 4 AND THE REST OF THE SMALL COMPLINE FOLLOWS._

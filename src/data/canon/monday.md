@@ -1,16 +1,12 @@
-THE GREAT CANON
-
-OF SAINT ANDREW OF CRETE
-
-> ON MONDAY OF THE FIRST WEEK OF GREAT LENT DURING THE GRAND COMPLINE, WE BEGIN THE FIRST SECTION OF THE GREAT CANON AFTER THE READING OF PSALM 69 (70). THE REFRAINS ARE SUNG AFTER EACH TROPARION. AT EACH REFRAIN WE MAKE THE SIGN OF THE CROSS AND A FULL PROSTRATION.
+**The refrains are sung after each troparion. At each refrain we make the sign of the cross and a full prostration.**
 
 ## ODE 1
 
-*Tone 6*
+_Tone 6_
 
 **Irmos:** A helper and a protector, He has become my salvation. This is my God, I will glorify Him, my father’s God will I exalt, for gloriously has He been glorified.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -26,11 +22,11 @@ In the place of the physical Eve, the temptation of Eve hath taken flesh in my m
 
 Adam was rightly banished from Eden, O Savior, because he disobeyed one of Thy commandments. What then shall I suffer, for constantly rejecting Thy words of life?
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Trinity, Who surpasses all creation and is adored in Unity, take from me the heavy yoke of sin, and in Thy compassion grant me tears of compunction.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** O Theotokos, the hope and protection of those who praise thee, take from me the heavy yoke of sin and as thou art our Most-pure Lady, accept me in repentance.
 
@@ -38,7 +34,7 @@ Adam was rightly banished from Eden, O Savior, because he disobeyed one of Thy c
 
 **Irmos:** Attend, O heaven and I will speak, I will sing of Christ, Who from the Virgin took flesh to dwell with us.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -66,11 +62,11 @@ I looked upon the beauty of the forbidden tree and my mind was deceived; and now
 
 The demons of passion have ploughed long furrows on my back, prolonging their wickedness upon me.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** I sing praises to the One in Three Persons, God of all, Father, Son and Holy Spirit.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** O Most-pure Theotokos and All-laudable Virgin, fervently intercede for our salvation.
 
@@ -78,7 +74,7 @@ The demons of passion have ploughed long furrows on my back, prolonging their wi
 
 **Irmos:** Establish Thy Church, O Christ, on the unshakable rock of Thy commandments.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -96,11 +92,11 @@ Thou art my sweet Jesus, Thou art my Creator, and in Thee shall I be justified, 
 
 I confess that I have sinned, I have sinned against Thee, O Savior. But in Thy compassion absolve me and forgive me.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O God, the Trinity, One in Unity, save us from delusion and temptation and distress.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Rejoice, O Womb that bore Divinity! Rejoice, O Throne of the Lord! Rejoice, O Mother of our Life!
 
@@ -108,7 +104,7 @@ I confess that I have sinned, I have sinned against Thee, O Savior. But in Thy c
 
 **Irmos:** The prophet heard of Thy coming, O Lord, and was afraid that Thou wast to be born of a Virgin and appear to men, and he said, ‘I have heard the report of Thee and am afraid.’ Glory to Thy power, O Lord.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -128,11 +124,11 @@ Bearing the burning heat by day and the frost by night because of his privation,
 
 By the two wives, understand that one is action and the other is spiritual understanding in contemplation. Leah represents action, for she had many children; and Rachel spiritual understanding, for she endured great toil. For without labor, O my soul, neither action nor contemplation will succeed.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** I confess Thee as undivided in Essence, unconfused in Persons, One Triune Divinity, co-reigning and co-enthroned! And to Thee, I raise the great Thrice-holy hymn that is sung on high.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Thou givest birth and art a virgin, and in both thou remainest a virgin by nature. He Who is born renews the laws of nature, and the womb gives birth without travail. When God so wills, the order of nature is overruled, for He does whatsoever He wills.
 
@@ -140,7 +136,7 @@ By the two wives, understand that one is action and the other is spiritual under
 
 **Irmos:** Out of the night watching early for Thee, enlighten me I pray, O Lover of man, and guide me in Thy commandments and teach me O Savior, to do Thy will.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -156,11 +152,11 @@ O my miserable and wretched soul, imitate the righteous and chaste mind of Josep
 
 When Joseph was cast down into the pit, O Lord and Master, it was to prefigure Thy Burial and Resurrection. But what offering such as this shall I ever make to Thee?
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** We glorify Thee, O Trinity, as One God! Holy, Holy, Holy, art Thou, Father, Son and Holy Spirit; simple Essence and Unity worshipped for ever.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** From thee, O Virgin undefiled and maiden Mother, has God the Creator of the ages, become vested in my human flesh, uniting to Himself the nature of man.
 
@@ -168,7 +164,7 @@ When Joseph was cast down into the pit, O Lord and Master, it was to prefigure T
 
 **Irmos:** With my whole heart, I cried unto the compassionate God: and He heard me, and He lifted up my soul from the depths of hell and from corruption.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -180,11 +176,11 @@ Do not be like Ephraim stung to madness like a stampeding calf, O my soul, but r
 
 Let the hand of Moses assure us, O my soul, that God can cleanse and make again as white as snow a leprous life. So do not despair, though thou thyself art leprous.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** ‘I am the Trinity, simple and undivided, yet divided in Three Persons; and I am the Unity, united by Nature’, says the Father and the Son and the Divine Spirit.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Thy womb bore God for us, fashioned in our image. Implore thou Him as the Creator of all, O Theotokos, that we may be justified through thine intercessions.
 
@@ -194,7 +190,7 @@ Kontakion (TONE 6): My soul, my soul arise! Why art thou sleeping? The end is dr
 
 **Irmos:** We have sinned, transgressed, done wrong before Thee. We have not watched or done as Thou hast commanded us. But do not give us up utterly, O God of our fathers.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -210,11 +206,11 @@ David once joined sin to sin when he mixed adultery with murder; yet then he sho
 
 David once composed a hymn, setting forth, as in an icon, all the evils he had done; and he condemned them, crying, ‘Have mercy on me, for against Thee only have I sinned, O God of all, cleanse me!’
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Trinity, simple and undivided, consubstantial and of One Nature. We praise Thee, Light and Lights, One Holy and Three Holies, God the Trinity! Sing, O my soul, and glorify the Life of Lives, the God of all.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** We praise thee, we bless thee, we venerate thee, O Mother of God: for thou hast given birth to Christ God, One of the undivided Trinity, and hast opened the Heavens to us on earth.
 
@@ -222,7 +218,7 @@ David once composed a hymn, setting forth, as in an icon, all the evils he had d
 
 **Irmos:** Him whom the hosts of heaven glorify, whom the Cherubim and Seraphim dread, let every breath and creature praise, bless and magnify throughout all ages.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -238,11 +234,11 @@ The Shunammite woman graciously gave shelter to the righteous man, but thou, O m
 
 In all ways hast thou imitated the unclean thoughts of Gehazi, O my wretched soul. At least now, in thine old age, rid thyself of his greed and flee from the fires of hell, turning away from thine evil ways.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** O Eternal Father, Co-eternal Son and Gracious Comforter, the Spirit of Righteousness, Father of the Divine Word, Word of the Eternal Father, and Living and Creating Spirit. O Trinity, One in Unity, have mercy on me!
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** The spiritual purple of Emmanuel was woven inside thy womb as if from scarlet silk, O Most-pure Virgin. Therefore we honor thee as truly Theotokos.
 
@@ -250,7 +246,7 @@ In all ways hast thou imitated the unclean thoughts of Gehazi, O my wretched sou
 
 **Irmos:** Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.
 
-**Refrain:** *Have mercy on me, O God, have mercy on me.*
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
@@ -270,20 +266,16 @@ Christ saved the Magi, called the Shepherds, transformed a host of infants into 
 
 When the Lord had fasted for forty days in the wilderness, He became hungry thus showing us His human nature. Do not be dismayed, O my soul, and when the enemy attacks thee, drive him away through prayer and fasting.
 
-*Glory to the Father and to the Son and to the Holy Spirit.*
+_Glory to the Father and to the Son and to the Holy Spirit._
 
 **To the Trinity:** Let us glorify the Father, let us exalt the Son and with faith let us worship the Divine and Holy Spirit, the Trinity undivided, Unity in Essence; Light of Lights, Life and Lives, giving light and life to the ends of the earth.
 
-*Now and ever, and unto ages of ages. Amen.*
+_Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Protect this, thy habitation, O Most-pure Mother of God, for through thee she reigns in faith, by thee she is made strong, by thee she is made victorious defeating every trial and temptation, despoiling every enemy and ruling over her obedient servants.
 
-*Venerable Father Andrew, pray to God for us.*
+_Venerable Father Andrew, pray to God for us._
 
 **To Saint Andrew:** O Venerable and Thrice-blessèd Father Andrew, the shepherd of Crete; cease not to offer thy prayers for us who sing thy praises; that we may be delivered from every danger and affliction, from corruption and sin, who honor thy memory with faith.
 
-**Katavasia, Irmos 9: Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.**
-
----
-
-*NOW THE READER CONTINUES WITH PSALM 4 AND THE REST OF THE GRAND COMPLINE FOLLOWS.*
+**Katavasia, Irmos 9:** Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.

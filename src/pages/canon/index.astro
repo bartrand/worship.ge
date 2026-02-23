@@ -3,7 +3,8 @@ import { Content as ComplineContent } from '../../data/canon/compline.md';
 import { Content as MondayContent }   from '../../data/canon/monday.md';
 import { Content as TuesdayContent }  from '../../data/canon/tuesday.md';
 import { Content as WednesdayContent } from '../../data/canon/wednesday.md';
-import { Content as ThursdayContent } from '../../data/canon/thursday.md';
+import { Content as ThursdayContent }   from '../../data/canon/thursday.md';
+import { Content as ConclusionContent } from '../../data/canon/conclusion.md';
 
 const days = ['monday', 'tuesday', 'wednesday', 'thursday'];
 const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
@@ -22,7 +23,7 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap"
       rel="stylesheet"
     />
-    <style>
+    <style is:global>
       *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
       :root {
@@ -31,8 +32,8 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
         --border:      #2a2a2a;
         --text:        #e8e0d4;
         --text-muted:  #8a8078;
-        --accent:      #c8a96e;
-        --accent-dim:  #7a6440;
+        --accent:      #b39dcc;
+        --accent-dim:  #6b5080;
         --font:        'EB Garamond', Georgia, serif;
       }
 
@@ -40,7 +41,7 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
         background: var(--bg);
         color: var(--text);
         font-family: var(--font);
-        font-size: clamp(1.05rem, 2.5vw, 1.2rem);
+        font-size: clamp(1.125rem, 4vw, 1.3rem);
         line-height: 1.75;
         min-height: 100dvh;
       }
@@ -81,7 +82,6 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
 
       /* ── Markdown prose ── */
       .prose h1, .prose h2, .prose h3, .prose h4 {
-        font-style: italic;
         font-weight: 500;
         color: var(--accent);
         margin-top: 2rem;
@@ -89,6 +89,8 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
         line-height: 1.3;
         text-align: center;
       }
+      .prose h1, .prose h3, .prose h4 { font-style: italic; }
+      .prose h2 { font-style: normal; font-variant: small-caps; letter-spacing: 0.06em; }
       .prose h1 { font-size: 1.55rem; }
       .prose h2 { font-size: 1.3rem; }
       .prose h3 { font-size: 1.1rem; }
@@ -204,7 +206,6 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
   <body>
     <main>
       <h1 class="canon-title">The Great Canon<br/>of St. Andrew of Crete</h1>
-      <p class="canon-subtitle">worship.ge</p>
 
       <!-- Compline -->
       <section class="prose">
@@ -235,6 +236,13 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       </section>
       <section class="day-content prose" id="day-thursday">
         <ThursdayContent />
+      </section>
+
+      <hr class="divider" />
+
+      <!-- Conclusion -->
+      <section class="prose">
+        <ConclusionContent />
       </section>
     </main>
 
