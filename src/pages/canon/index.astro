@@ -136,7 +136,7 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       }
       .prose h1, .prose h3, .prose h4 { font-style: italic; }
       .prose h2 { font-size: 1.4em; font-style: normal; font-variant: small-caps; letter-spacing: 0.06em; }
-      .prose h1 { font-size: 1.55rem; }
+      .prose h1 { font-size: 1.55em; }
       .prose h3 { font-size: 1.15em; }
 
       .prose p {
@@ -500,7 +500,7 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
 
         [compline, activeDay, conclusion].forEach(section => {
           if (!section) return;
-          section.querySelectorAll('h1, h2, h3').forEach(h => {
+          section.querySelectorAll('h1, h2').forEach(h => {
             if (!h.textContent?.trim()) return;
             const a = document.createElement('a');
             a.href = '#' + h.id;
