@@ -367,7 +367,8 @@ const dayFmt   = new Intl.DateTimeFormat('en', { day: 'numeric', timeZone: 'UTC'
         >+ Add to Google Calendar</a>
         <a
           class="subscribe-btn"
-          href="https://calendar.google.com/calendar/ical/19148e6f30ba4f414dffd0aadb68ee2ffa6b37dfdf35dc0ed3fc2d1e0e301f34%40group.calendar.google.com/public/basic.ics"
+          href="/lent2026.ics"
+          download="lent2026.ics"
         >↓ Download .ics</a>
         <button class="copy-btn" id="copy-ical">Copy iCal link</button>
       </div>
@@ -376,7 +377,20 @@ const dayFmt   = new Intl.DateTimeFormat('en', { day: 'numeric', timeZone: 'UTC'
         const ICAL = 'https://calendar.google.com/calendar/ical/19148e6f30ba4f414dffd0aadb68ee2ffa6b37dfdf35dc0ed3fc2d1e0e301f34%40group.calendar.google.com/public/basic.ics';
         const btn = document.getElementById('copy-ical')!;
         btn.addEventListener('click', async () => {
-          await navigator.clipboard.writeText(ICAL);
+          try {
+            await navigator.clipboard.writeText(ICAL);
+          } catch {
+            // Fallback for browsers that block clipboard API
+            const ta = document.createElement('textarea');
+            ta.value = ICAL;
+            ta.style.position = 'fixed';
+            ta.style.opacity = '0';
+            document.body.appendChild(ta);
+            ta.focus();
+            ta.select();
+            document.execCommand('copy');
+            document.body.removeChild(ta);
+          }
           btn.textContent = 'Copied!';
           btn.classList.add('copied');
           setTimeout(() => { btn.textContent = 'Copy iCal link'; btn.classList.remove('copied'); }, 2000);
