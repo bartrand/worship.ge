@@ -1,0 +1,387 @@
+---
+const ICAL_URL = 'https://calendar.google.com/calendar/ical/19148e6f30ba4f414dffd0aadb68ee2ffa6b37dfdf35dc0ed3fc2d1e0e301f34%40group.calendar.google.com/public/basic.ics';
+
+// Lent 2026: Mon Feb 23 → Sun Apr 12 (exactly 7 weeks)
+const LENT_START = new Date(Date.UTC(2026, 1, 23)); // Feb 23
+const LENT_END   = new Date(Date.UTC(2026, 3, 12)); // Apr 12 (end of day)
+
+interface CalEvent { summary: string; date: string; time: string; }
+
+function addDays(d: Date, n: number) { return new Date(d.getTime() + n * 86_400_000); }
+function toKey(d: Date) { return d.toISOString().slice(0, 10); }
+
+// day-of-week name → JS getUTCDay() (0=Sun … 6=Sat)
+const DOW: Record<string, number> = { SU:0, MO:1, TU:2, WE:3, TH:4, FR:5, SA:6 };
+
+function parseTime(block: string): string {
+  const m = block.match(/^DTSTART([^:]*):\d{8}T(\d{2})(\d{2})\d{2}(Z)?/m);
+  if (!m) return '';
+  let h = parseInt(m[2], 10);
+  const min = m[3];
+  const isUtc = !!m[4];
+  const hasTzid = m[1].includes('TZID');
+  if (isUtc && !hasTzid) h = (h + 4) % 24; // UTC → Tbilisi
+  const ampm = h >= 12 ? 'pm' : 'am';
+  const h12  = h % 12 || 12;
+  return min === '00' ? `${h12}${ampm}` : `${h12}:${min}${ampm}`;
+}
+
+function iCalDateToUtc(s: string): Date {
+  // Handles: 20260223 / 20260223T190000 / 20260223T190000Z
+  if (s.length === 8)
+    return new Date(`${s.slice(0,4)}-${s.slice(4,6)}-${s.slice(6,8)}T00:00:00Z`);
+  return new Date(`${s.slice(0,4)}-${s.slice(4,6)}-${s.slice(6,8)}T${s.slice(9,11)}:${s.slice(11,13)}:${s.slice(13,15)}Z`);
+}
+
+const eventsByDate: Record<string, CalEvent[]> = {};
+
+function addEvent(day: Date, summary: string, time: string) {
+  if (day < LENT_START || day > LENT_END) return;
+  const key = toKey(day);
+  const list = (eventsByDate[key] ??= []);
+  // Deduplicate by summary+time
+  if (!list.find(e => e.summary === summary && e.time === time))
+    list.push({ summary, date: key, time });
+}
+
+try {
+  const text = await fetch(ICAL_URL).then(r => r.text());
+  const unfolded = text.replace(/\r?\n[ \t]/g, '');
+  const blocks = [...unfolded.matchAll(/BEGIN:VEVENT([\s\S]*?)END:VEVENT/g)];
+
+  for (const [, block] of blocks) {
+    const summaryM  = block.match(/^SUMMARY:(.+)$/m);
+    const startM    = block.match(/^DTSTART[^:]*:(\d{8}(?:T\d{6}Z?)?)/m);
+    if (!startM || !summaryM) continue;
+
+    const summary   = summaryM[1].replace(/\\,/g, ',').replace(/\\n/g, ' ').trim();
+    const time      = parseTime(block);
+    const dtStart   = iCalDateToUtc(startM[1]);
+
+    // Duration: difference between DTEND and DTSTART in whole days
+    const endM      = block.match(/^DTEND[^:]*:(\d{8}(?:T\d{6}Z?)?)/m);
+    const dtEnd     = endM ? iCalDateToUtc(endM[1]) : addDays(dtStart, 1);
+    const durDays   = Math.max(1, Math.round((dtEnd.getTime() - dtStart.getTime()) / 86_400_000));
+
+    const rruleM    = block.match(/^RRULE:(.+)$/m);
+
+    if (!rruleM) {
+      // Single / already-expanded occurrence
+      for (let i = 0; i < durDays; i++) addEvent(addDays(dtStart, i), summary, i === 0 ? time : '');
+      continue;
+    }
+
+    // --- Parse RRULE ---
+    const rparts: Record<string, string> = {};
+    rruleM[1].split(';').forEach(p => { const [k,v] = p.split('='); rparts[k] = v; });
+
+    if (rparts.FREQ !== 'WEEKLY') continue; // only WEEKLY used in this calendar
+
+    const interval  = parseInt(rparts.INTERVAL ?? '1', 10);
+    const wkst      = DOW[rparts.WKST ?? 'MO'];
+    const byDay     = (rparts.BYDAY ?? '').split(',').map(d => DOW[d.trim()]).filter(n => !isNaN(n));
+    const maxCount  = rparts.COUNT ? parseInt(rparts.COUNT, 10) : 10_000;
+
+    let until = new Date(LENT_END);
+    if (rparts.UNTIL) {
+      const u = iCalDateToUtc(rparts.UNTIL);
+      if (u < until) until = u;
+    }
+
+    // Find the Monday (or wkst-day) of the week containing dtStart
+    const dtDay     = dtStart.getUTCDay();
+    const daysBack  = (dtDay - wkst + 7) % 7;
+    let weekStart   = addDays(dtStart, -daysBack);
+
+    let occCount = 0;
+
+    while (weekStart <= until && occCount < maxCount) {
+      // Sort BYDAY by day-of-week order within the week
+      const sortedByDay = [...byDay].sort((a, b) => ((a - wkst + 7) % 7) - ((b - wkst + 7) % 7));
+
+      for (const bd of sortedByDay) {
+        const offset    = (bd - wkst + 7) % 7;
+        const candidate = addDays(weekStart, offset);
+
+        // Must be ≥ dtStart and ≤ until
+        if (candidate < dtStart || candidate > until) continue;
+
+        occCount++;
+        for (let i = 0; i < durDays; i++)
+          addEvent(addDays(candidate, i), summary, i === 0 ? time : '');
+
+        if (occCount >= maxCount) break;
+      }
+      weekStart = addDays(weekStart, interval * 7);
+    }
+  }
+} catch (e) {
+  console.error('iCal fetch failed:', e);
+}
+
+// Build 7 × 7 grid (Mon Feb 23 → Sun Apr 12)
+const weeks: Date[][] = [];
+let cur = new Date(LENT_START);
+while (cur <= LENT_END) {
+  const week: Date[] = [];
+  for (let i = 0; i < 7; i++) { week.push(new Date(cur)); cur = addDays(cur, 1); }
+  weeks.push(week);
+}
+
+const monthFmt = new Intl.DateTimeFormat('en', { month: 'long', timeZone: 'UTC' });
+const dayFmt   = new Intl.DateTimeFormat('en', { day: 'numeric', timeZone: 'UTC' });
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Lent Calendar — Worship.ge" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>Lent Calendar | Worship.ge</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+      :root {
+        --bg:         #0f0f0f;
+        --surface:    #181818;
+        --border:     #2a2a2a;
+        --text:       #e8e0d4;
+        --text-muted: #8a8078;
+        --accent:     #b39dcc;
+        --font:       'EB Garamond', Georgia, serif;
+      }
+
+      html, body {
+        background: var(--bg);
+        color: var(--text);
+        font-family: var(--font);
+        font-size: clamp(1.1rem, 3.5vw, 1.25rem);
+        line-height: 1.6;
+        min-height: 100dvh;
+      }
+
+      main {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 2.5rem 1.5rem 5rem;
+      }
+
+      h1 {
+        font-size: clamp(1.5rem, 5vw, 2.1rem);
+        font-weight: 500;
+        font-style: italic;
+        color: var(--accent);
+        text-align: center;
+        line-height: 1.3;
+        margin-bottom: 0.4rem;
+        letter-spacing: 0.01em;
+      }
+
+      .subtitle {
+        text-align: center;
+        font-size: 0.8rem;
+        color: var(--text-muted);
+        letter-spacing: 0.09em;
+        text-transform: uppercase;
+        margin-bottom: 2.25rem;
+      }
+
+      /* ── Calendar grid ── */
+      .cal-wrap {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+      .cal-grid {
+        width: 100%;
+        min-width: 720px;
+        border-collapse: collapse;
+        border: 1px solid var(--border);
+        border-radius: 6px;
+        overflow: hidden;
+        font-size: 0.78rem;
+        table-layout: fixed;
+      }
+      .cal-grid thead th { padding: 0.4rem 0; text-align: center; font-size: 0.68rem; font-weight: 400; letter-spacing: 0.09em; text-transform: uppercase; color: var(--text-muted); border-bottom: 1px solid var(--border); background: var(--surface); }
+      .cal-grid thead th.week-hdr { width: 82px; }
+      .cal-grid td, .cal-grid th.week-lbl {
+        vertical-align: top;
+        border: 1px solid var(--border);
+        padding: 0.3rem 0.35rem 0.4rem;
+        height: auto;
+        min-height: 5.5rem;
+      }
+      .cal-grid th.week-lbl {
+        width: 82px;
+        font-size: 0.62rem;
+        font-weight: 400;
+        font-style: italic;
+        color: var(--accent);
+        text-align: right;
+        vertical-align: middle;
+        padding-right: 0.55rem;
+        background: var(--surface);
+        white-space: nowrap;
+        line-height: 1.3;
+      }
+      .day-num { display: block; font-size: 0.72rem; color: var(--text-muted); margin-bottom: 0.25rem; line-height: 1; }
+      .day-num.month-start { color: var(--accent); font-style: italic; }
+      .cal-event { display: -webkit-box; font-size: 0.7rem; line-height: 1.3; color: var(--accent); background: #1e1825; border-left: 2px solid var(--accent); padding: 0.1rem 0.3rem; margin-bottom: 0.15rem; border-radius: 2px; overflow: hidden; white-space: normal; word-break: break-word; -webkit-line-clamp: 3; -webkit-box-orient: vertical; cursor: default; }
+      .evt-time { font-size: 0.62rem; color: var(--text-muted); margin-right: 0.25rem; }
+
+      /* ── Desktop: show grid, hide agenda ── */
+      .cal-agenda { display: none; }
+
+      /* ── Mobile: hide grid, show agenda ── */
+      @media (max-width: 700px) {
+        .cal-wrap { display: none; }
+        .cal-agenda { display: block; }
+      }
+
+      /* ── Agenda view ── */
+      .agenda-week { margin-bottom: 1.75rem; }
+      .agenda-week-label { font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; font-style: italic; color: var(--accent); margin-bottom: 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--border); }
+      .agenda-day { margin-bottom: 0.6rem; }
+      .agenda-date { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 0.2rem; }
+      .agenda-event { font-size: 0.9rem; color: var(--text); padding-left: 0.75rem; border-left: 2px solid var(--accent); margin-bottom: 0.2rem; }
+      .agenda-event .evt-time { font-size: 0.75rem; color: var(--text-muted); margin-right: 0.3rem; }
+
+      .subscribe-wrap {
+        margin-top: 1.5rem;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 0.75rem;
+      }
+
+      .subscribe-btn, .copy-btn {
+        display: inline-flex;
+        align-items: center;
+        height: 2rem;
+        gap: 0.3rem;
+        background: none;
+        border: 1px solid var(--accent-dim, #6b5080);
+        color: var(--accent);
+        font-family: var(--font);
+        font-size: 0.78rem;
+        padding: 0 0.75rem;
+        border-radius: 4px;
+        text-decoration: none;
+        letter-spacing: 0.03em;
+        cursor: pointer;
+        transition: background 0.15s, border-color 0.15s, color 0.15s;
+        white-space: nowrap;
+      }
+      .subscribe-btn:hover, .copy-btn:hover { background: #1e1825; border-color: var(--accent); }
+      .copy-btn.copied { color: #7ec87e; border-color: #7ec87e; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Lent Calendar</h1>
+      <p class="subtitle">2026</p>
+
+      <div class="cal-wrap">
+      <table class="cal-grid" aria-label="Lent 2026 calendar">
+        <thead>
+          <tr>
+            <th class="week-hdr"></th>
+            {['Mon','Tue','Wed','Thu','Fri','Sat','Sun'].map(d => <th>{d}</th>)}
+          </tr>
+        </thead>
+        <tbody>
+          {weeks.map((week, wi) => {
+            const weekLabel = wi < 6 ? `Lent\nWeek ${wi + 1}` : 'Holy\nWeek';
+            return (
+            <tr>
+              <th class="week-lbl" scope="row" set:html={weekLabel.replace('\n','<br/>')}></th>
+              {week.map(day => {
+                const key    = toKey(day);
+                const dayNum = dayFmt.format(day);
+                const isFirst = dayNum === '1';
+                return (
+                  <td>
+                    <span class={`day-num${isFirst ? ' month-start' : ''}`}>
+                      {isFirst ? monthFmt.format(day) + ' ' : ''}{dayNum}
+                    </span>
+                    {(eventsByDate[key] ?? [])
+                      .sort((a, b) => a.time.localeCompare(b.time))
+                      .map(e => (
+                      <span class="cal-event" title={e.summary}>
+                        {e.time && <span class="evt-time">{e.time}</span>}{e.summary}
+                      </span>
+                    ))}
+                  </td>
+                );
+              })}
+            </tr>
+            );
+          })}
+        </tbody>
+      </table>
+      </div>
+
+      {/* Agenda view for mobile */}
+      <div class="cal-agenda">
+        {weeks.map((week, wi) => {
+          const weekLabel = wi < 6 ? `Lent Week ${wi + 1}` : 'Holy Week';
+          const daysWithEvents = week.filter(d => (eventsByDate[toKey(d)] ?? []).length > 0);
+          return (
+            <div class="agenda-week">
+              <div class="agenda-week-label">{weekLabel}</div>
+              {daysWithEvents.length === 0 && <p style="font-size:0.8rem;color:var(--text-muted);padding-left:0.5rem">No events</p>}
+              {daysWithEvents.map(day => {
+                const key = toKey(day);
+                const evts = (eventsByDate[key] ?? []).sort((a,b) => a.time.localeCompare(b.time));
+                const label = new Intl.DateTimeFormat('en', {weekday:'long',month:'long',day:'numeric',timeZone:'UTC'}).format(day);
+                return (
+                  <div class="agenda-day">
+                    <div class="agenda-date">{label}</div>
+                    {evts.map(e => (
+                      <div class="agenda-event">
+                        {e.time && <span class="evt-time">{e.time}</span>}{e.summary}
+                      </div>
+                    ))}
+                  </div>
+                );
+              })}
+            </div>
+          );
+        })}
+      </div>
+
+      <div class="subscribe-wrap">
+        <a
+          class="subscribe-btn"
+          href="https://calendar.google.com/calendar/r?cid=19148e6f30ba4f414dffd0aadb68ee2ffa6b37dfdf35dc0ed3fc2d1e0e301f34%40group.calendar.google.com"
+          target="_blank"
+          rel="noopener"
+        >+ Add to Google Calendar</a>
+        <a
+          class="subscribe-btn"
+          href="https://calendar.google.com/calendar/ical/19148e6f30ba4f414dffd0aadb68ee2ffa6b37dfdf35dc0ed3fc2d1e0e301f34%40group.calendar.google.com/public/basic.ics"
+        >↓ Download .ics</a>
+        <button class="copy-btn" id="copy-ical">Copy iCal link</button>
+      </div>
+
+      <script>
+        const ICAL = 'https://calendar.google.com/calendar/ical/19148e6f30ba4f414dffd0aadb68ee2ffa6b37dfdf35dc0ed3fc2d1e0e301f34%40group.calendar.google.com/public/basic.ics';
+        const btn = document.getElementById('copy-ical')!;
+        btn.addEventListener('click', async () => {
+          await navigator.clipboard.writeText(ICAL);
+          btn.textContent = 'Copied!';
+          btn.classList.add('copied');
+          setTimeout(() => { btn.textContent = 'Copy iCal link'; btn.classList.remove('copied'); }, 2000);
+        });
+      </script>
+    </main>
+  </body>
+</html>
