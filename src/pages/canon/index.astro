@@ -1,0 +1,275 @@
+---
+import { Content as ComplineContent } from '../../data/canon/compline.md';
+import { Content as MondayContent }   from '../../data/canon/monday.md';
+import { Content as TuesdayContent }  from '../../data/canon/tuesday.md';
+import { Content as WednesdayContent } from '../../data/canon/wednesday.md';
+import { Content as ThursdayContent } from '../../data/canon/thursday.md';
+
+const days = ['monday', 'tuesday', 'wednesday', 'thursday'];
+const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="The Great Canon of St. Andrew of Crete" />
+    <title>The Great Canon of St. Andrew of Crete | Worship.ge</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+      :root {
+        --bg:          #0f0f0f;
+        --surface:     #181818;
+        --border:      #2a2a2a;
+        --text:        #e8e0d4;
+        --text-muted:  #8a8078;
+        --accent:      #c8a96e;
+        --accent-dim:  #7a6440;
+        --font:        'EB Garamond', Georgia, serif;
+      }
+
+      html, body {
+        background: var(--bg);
+        color: var(--text);
+        font-family: var(--font);
+        font-size: clamp(1.05rem, 2.5vw, 1.2rem);
+        line-height: 1.75;
+        min-height: 100dvh;
+      }
+
+      main {
+        max-width: 680px;
+        margin: 0 auto;
+        padding: 2.5rem 1.25rem 5rem;
+      }
+
+      /* ── Page title ── */
+      .canon-title {
+        font-size: clamp(1.55rem, 5vw, 2.2rem);
+        font-weight: 500;
+        font-style: italic;
+        color: var(--accent);
+        text-align: center;
+        letter-spacing: 0.01em;
+        line-height: 1.3;
+        margin-bottom: 0.35rem;
+      }
+
+      .canon-subtitle {
+        text-align: center;
+        font-size: 0.9rem;
+        color: var(--text-muted);
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        margin-bottom: 3rem;
+      }
+
+      /* ── Divider ── */
+      .divider {
+        border: none;
+        border-top: 1px solid var(--border);
+        margin: 2.5rem 0;
+      }
+
+      /* ── Markdown prose ── */
+      .prose h1, .prose h2, .prose h3, .prose h4 {
+        font-style: italic;
+        font-weight: 500;
+        color: var(--accent);
+        margin-top: 2rem;
+        margin-bottom: 0.6rem;
+        line-height: 1.3;
+        text-align: center;
+      }
+      .prose h1 { font-size: 1.55rem; }
+      .prose h2 { font-size: 1.3rem; }
+      .prose h3 { font-size: 1.1rem; }
+
+      .prose p {
+        margin-bottom: 1rem;
+      }
+
+      .prose strong {
+        font-weight: 400;
+        font-size: 0.8em;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--accent);
+      }
+
+      .prose em {
+        font-style: italic;
+        color: var(--text);
+      }
+
+      .prose blockquote {
+        border-left: 2px solid var(--accent-dim);
+        padding-left: 1.1rem;
+        color: var(--text-muted);
+        font-style: italic;
+        margin: 1.25rem 0;
+      }
+
+      .prose ul, .prose ol {
+        padding-left: 1.4rem;
+        margin-bottom: 1rem;
+      }
+
+      .prose li { margin-bottom: 0.3rem; }
+
+      .prose hr {
+        border: none;
+        border-top: 1px solid var(--border);
+        margin: 2rem 0;
+      }
+
+      .prose a {
+        color: var(--accent);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+
+      /* ── Day chooser ── */
+      .day-chooser-wrap {
+        margin: 2rem 0 1.5rem;
+      }
+
+      .day-chooser-label {
+        text-align: center;
+        font-size: 0.8rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        margin-bottom: 0.75rem;
+      }
+
+      .day-chooser {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+      }
+
+      .day-chooser button {
+        background: none;
+        border: 1px solid var(--border);
+        color: var(--accent);
+        font-family: var(--font);
+        font-size: 1.4rem;
+        line-height: 1;
+        width: 2.4rem;
+        height: 2.4rem;
+        border-radius: 50%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: border-color 0.15s, background 0.15s;
+        flex-shrink: 0;
+      }
+
+      .day-chooser button:hover {
+        background: var(--surface);
+        border-color: var(--accent-dim);
+      }
+
+      .day-chooser button:disabled {
+        opacity: 0.25;
+        cursor: default;
+      }
+
+      #day-label {
+        font-size: clamp(1.2rem, 4vw, 1.5rem);
+        font-style: italic;
+        color: var(--text);
+        min-width: 9rem;
+        text-align: center;
+        letter-spacing: 0.01em;
+      }
+
+      /* ── Day content ── */
+      .day-content { display: none; }
+      .day-content.active { display: block; }
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <h1 class="canon-title">The Great Canon<br/>of St. Andrew of Crete</h1>
+      <p class="canon-subtitle">worship.ge</p>
+
+      <!-- Compline -->
+      <section class="prose">
+        <ComplineContent />
+      </section>
+
+      <hr class="divider" />
+
+      <!-- Day chooser -->
+      <div class="day-chooser-wrap">
+        <p class="day-chooser-label">Select day</p>
+        <div class="day-chooser">
+          <button id="prev-day" aria-label="Previous day">&#8592;</button>
+          <span id="day-label">Monday</span>
+          <button id="next-day" aria-label="Next day">&#8594;</button>
+        </div>
+      </div>
+
+      <!-- Day contents (all pre-rendered, toggled by JS) -->
+      <section class="day-content prose" id="day-monday">
+        <MondayContent />
+      </section>
+      <section class="day-content prose" id="day-tuesday">
+        <TuesdayContent />
+      </section>
+      <section class="day-content prose" id="day-wednesday">
+        <WednesdayContent />
+      </section>
+      <section class="day-content prose" id="day-thursday">
+        <ThursdayContent />
+      </section>
+    </main>
+
+    <script>
+      const days = ['monday', 'tuesday', 'wednesday', 'thursday'];
+      const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
+
+      // Determine current day in Tbilisi time (UTC+4, no DST)
+      function getTbilisiDayIndex(): number {
+        const now = new Date();
+        const utcMs = now.getTime() + now.getTimezoneOffset() * 60_000;
+        const tbilisi = new Date(utcMs + 4 * 3_600_000);
+        const dow = tbilisi.getDay(); // 0=Sun 1=Mon 2=Tue 3=Wed 4=Thu 5=Fri 6=Sat
+        if (dow >= 1 && dow <= 4) return dow - 1; // map Mon=0 … Thu=3
+        return 0; // default: Monday
+      }
+
+      let current = getTbilisiDayIndex();
+
+      const labelEl   = document.getElementById('day-label')!;
+      const prevBtn   = document.getElementById('prev-day') as HTMLButtonElement;
+      const nextBtn   = document.getElementById('next-day') as HTMLButtonElement;
+      const sections  = days.map(d => document.getElementById(`day-${d}`)!);
+
+      function render() {
+        sections.forEach((s, i) => s.classList.toggle('active', i === current));
+        labelEl.textContent = dayLabels[current];
+        prevBtn.disabled = current === 0;
+        nextBtn.disabled = current === days.length - 1;
+      }
+
+      prevBtn.addEventListener('click', () => { if (current > 0) { current--; render(); } });
+      nextBtn.addEventListener('click', () => { if (current < days.length - 1) { current++; render(); } });
+
+      render();
+    </script>
+  </body>
+</html>
