@@ -55,9 +55,11 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       /* ── Font size control ── */
       .font-size-control {
         display: flex;
-        justify-content: flex-end;
-        gap: 0.4rem;
-        margin-bottom: 1.5rem;
+        justify-content: center;
+        gap: 0.5rem;
+        padding: 0.85rem 1.1rem;
+        border-top: 1px solid var(--border);
+        flex-shrink: 0;
       }
 
       .font-size-control button {
@@ -255,23 +257,113 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       /* ── Day content ── */
       .day-content { display: none; }
       .day-content.active { display: block; }
+
+      /* ── TOC button ── */
+      .toc-btn {
+        position: fixed;
+        top: 1rem;
+        right: 1rem;
+        z-index: 200;
+        background: var(--surface);
+        border: 1px solid var(--border);
+        color: var(--accent);
+        font-family: var(--font);
+        font-size: 1.1rem;
+        width: 2.4rem;
+        height: 2.4rem;
+        border-radius: 50%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: border-color 0.15s, background 0.15s;
+        line-height: 1;
+      }
+      .toc-btn:hover { background: #222; border-color: var(--accent); }
+
+      /* ── TOC drawer ── */
+      .toc-drawer {
+        position: fixed;
+        top: 0; right: 0;
+        height: 100dvh;
+        width: min(320px, 85vw);
+        background: var(--surface);
+        border-left: 1px solid var(--border);
+        z-index: 300;
+        transform: translateX(100%);
+        transition: transform 0.25s ease;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+      }
+      .toc-drawer.open { transform: translateX(0); }
+
+      .toc-drawer-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1rem 1.1rem 0.75rem;
+        border-bottom: 1px solid var(--border);
+        flex-shrink: 0;
+      }
+      .toc-drawer-header span {
+        font-size: 0.75rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+      }
+      .toc-close {
+        background: none;
+        border: none;
+        color: var(--text-muted);
+        font-size: 1.3rem;
+        cursor: pointer;
+        line-height: 1;
+        padding: 0.2rem;
+      }
+      .toc-close:hover { color: var(--text); }
+
+      .toc-list {
+        overflow-y: auto;
+        padding: 0.75rem 0 2rem;
+        flex: 1;
+      }
+      .toc-list a {
+        display: block;
+        padding: 0.45rem 1.1rem;
+        color: var(--text);
+        text-decoration: none;
+        font-size: 0.95rem;
+        line-height: 1.3;
+        border-left: 2px solid transparent;
+        transition: color 0.1s, border-color 0.1s;
+      }
+      .toc-list a:hover { color: var(--accent); border-left-color: var(--accent); }
+      .toc-list a.toc-h3 { padding-left: 2rem; font-size: 0.85rem; color: var(--text-muted); }
+      .toc-list a.toc-h3:hover { color: var(--accent); }
+
+      .toc-overlay {
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.5);
+        z-index: 250;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.25s;
+      }
+      .toc-overlay.open { opacity: 1; pointer-events: all; }
     </style>
   </head>
 
   <body>
     <main>
-      <!-- Font size control -->
-      <div class="font-size-control" aria-label="Font size">
-        <button data-size="font-small"  aria-label="Small text">A</button>
-        <button data-size="font-medium" aria-label="Medium text" style="font-size:1.15em">A</button>
-        <button data-size="font-large"  aria-label="Large text"  style="font-size:1.35em">A</button>
-      </div>
+      <!-- Font size control is now inside the TOC drawer -->
 
       <h1 class="canon-title">The Great Canon<br/>of St. Andrew of Crete</h1>
       <img src="/st-andrew-of-crete.jpg" alt="Icon of St. Andrew of Crete" class="canon-icon" />
 
       <!-- Compline -->
-      <section class="prose">
+      <section class="prose" id="section-compline">
         <ComplineContent />
       </section>
 
@@ -303,25 +395,46 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
 
       <hr class="divider" />
 
-      <!-- Conclusion -->
-      <section class="prose">
+      <section class="prose" id="section-conclusion">
         <ConclusionContent />
       </section>
     </main>
 
+    <!-- TOC button -->
+    <button class="toc-btn" id="toc-btn" aria-label="Table of contents">☰</button>
+
+    <!-- TOC overlay -->
+    <div class="toc-overlay" id="toc-overlay"></div>
+
+    <!-- TOC drawer -->
+    <nav class="toc-drawer" id="toc-drawer" aria-label="Table of contents">
+      <div class="toc-drawer-header">
+        <span>Contents</span>
+        <button class="toc-close" id="toc-close" aria-label="Close">&times;</button>
+      </div>
+      <div class="toc-list" id="toc-list"></div>
+      <div class="font-size-control" aria-label="Font size">
+        <button data-size="font-small"  aria-label="Small text">A</button>
+        <button data-size="font-medium" aria-label="Medium text" style="font-size:1.15em">A</button>
+        <button data-size="font-large"  aria-label="Large text"  style="font-size:1.35em">A</button>
+      </div>
+    </nav>
+
     <script>
-      // ── Font size ──────────────────────────────────────────────
+      // ── Font size ───────────────────────────────────────────────
       const SIZE_KEY = 'canon-font-size';
-      const sizeButtons = document.querySelectorAll<HTMLButtonElement>('[data-size]');
-      const html = document.documentElement;
 
       function applySize(size: string) {
+        const html = document.documentElement;
         html.classList.remove('font-small', 'font-medium', 'font-large');
         html.classList.add(size);
-        sizeButtons.forEach(b => b.classList.toggle('active', b.dataset.size === size));
         localStorage.setItem(SIZE_KEY, size);
+        document.querySelectorAll<HTMLButtonElement>('[data-size]').forEach(b => {
+          b.classList.toggle('active', b.dataset.size === size);
+        });
       }
 
+      const sizeButtons = document.querySelectorAll<HTMLButtonElement>('[data-size]');
       sizeButtons.forEach(b => b.addEventListener('click', () => applySize(b.dataset.size!)));
       applySize(localStorage.getItem(SIZE_KEY) || 'font-medium');
 
@@ -353,10 +466,53 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
         nextBtn.disabled = current === days.length - 1;
       }
 
-      prevBtn.addEventListener('click', () => { if (current > 0) { current--; render(); } });
-      nextBtn.addEventListener('click', () => { if (current < days.length - 1) { current++; render(); } });
+      prevBtn.addEventListener('click', () => { if (current > 0) { current--; render(); buildToc(); } });
+      nextBtn.addEventListener('click', () => { if (current < days.length - 1) { current++; render(); buildToc(); } });
 
       render();
+
+      // ── TOC ────────────────────────────────────────────────
+      const tocBtn     = document.getElementById('toc-btn')!;
+      const tocDrawer  = document.getElementById('toc-drawer')!;
+      const tocOverlay = document.getElementById('toc-overlay')!;
+      const tocClose   = document.getElementById('toc-close')!;
+      const tocList    = document.getElementById('toc-list')!;
+
+      function openToc()  { tocDrawer.classList.add('open'); tocOverlay.classList.add('open'); }
+      function closeToc() { tocDrawer.classList.remove('open'); tocOverlay.classList.remove('open'); }
+
+      tocBtn.addEventListener('click', openToc);
+      tocClose.addEventListener('click', closeToc);
+      tocOverlay.addEventListener('click', closeToc);
+
+      // Auto-add IDs to headings so we can link to them
+      let headingIdx = 0;
+      document.querySelectorAll('.prose h1, .prose h2, .prose h3').forEach(h => {
+        if (!h.id) h.id = 'h-' + (headingIdx++);
+      });
+
+      function buildToc() {
+        tocList.innerHTML = '';
+        // Always include compline headings
+        const compline = document.querySelector('#section-compline');
+        const activeDay = sections.find(s => s.classList.contains('active'));
+        const conclusion = document.querySelector('#section-conclusion');
+
+        [compline, activeDay, conclusion].forEach(section => {
+          if (!section) return;
+          section.querySelectorAll('h1, h2, h3').forEach(h => {
+            if (!h.textContent?.trim()) return;
+            const a = document.createElement('a');
+            a.href = '#' + h.id;
+            a.textContent = h.textContent!.trim();
+            a.className = 'toc-' + h.tagName.toLowerCase();
+            a.addEventListener('click', () => closeToc());
+            tocList.appendChild(a);
+          });
+        });
+      }
+
+      buildToc();
     </script>
   </body>
 </html>
