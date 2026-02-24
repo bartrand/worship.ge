@@ -394,6 +394,55 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
         transition: opacity 0.25s;
       }
       .toc-overlay.open { opacity: 1; pointer-events: all; }
+
+      /* ── Section nav bar ── */
+      .sec-bar {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.5rem;
+        padding: 0 0.75rem;
+        height: 3.25rem;
+        background: var(--surface);
+        border-top: 1px solid var(--border);
+      }
+
+      .sec-bar-btn {
+        background: none;
+        border: 1px solid var(--border);
+        color: var(--accent);
+        font-family: var(--font);
+        font-size: 1.3rem;
+        width: 2.2rem;
+        height: 2.2rem;
+        border-radius: 50%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        transition: border-color 0.15s, background 0.15s;
+        line-height: 1;
+      }
+      .sec-bar-btn:hover:not(:disabled) { background: var(--bg); border-color: var(--accent); }
+      .sec-bar-btn:disabled { opacity: 0.2; cursor: default; }
+
+      .sec-bar-label {
+        flex: 1;
+        text-align: center;
+        font-style: italic;
+        font-size: clamp(0.95rem, 3vw, 1.1rem);
+        color: var(--text);
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        letter-spacing: 0.01em;
+      }
     </style>
   </head>
 
@@ -441,6 +490,13 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
         <ConclusionContent />
       </section>
     </main>
+
+    <!-- Section nav bar -->
+    <div class="sec-bar" id="sec-bar" aria-label="Section navigation">
+      <button class="sec-bar-btn" id="sec-prev" aria-label="Previous section">&#8592;</button>
+      <span class="sec-bar-label" id="sec-label"></span>
+      <button class="sec-bar-btn" id="sec-next" aria-label="Next section">&#8594;</button>
+    </div>
 
     <!-- TOC button -->
     <button class="toc-btn" id="toc-btn" aria-label="Table of contents">☰</button>
@@ -510,8 +566,8 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
         nextBtn.disabled = current === days.length - 1;
       }
 
-      prevBtn.addEventListener('click', () => { if (current > 0) { current--; render(); buildToc(); } });
-      nextBtn.addEventListener('click', () => { if (current < days.length - 1) { current++; render(); buildToc(); } });
+      prevBtn.addEventListener('click', () => { if (current > 0) { current--; render(); buildToc(); buildSecNav(); } });
+      nextBtn.addEventListener('click', () => { if (current < days.length - 1) { current++; render(); buildToc(); buildSecNav(); } });
 
       render();
 
@@ -568,6 +624,63 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       }
 
       buildToc();
+
+      // ── Section nav bar ────────────────────────────────────────
+      const secBar   = document.getElementById('sec-bar')!;
+      const secLabel = document.getElementById('sec-label')!;
+      const secPrev  = document.getElementById('sec-prev') as HTMLButtonElement;
+      const secNext  = document.getElementById('sec-next') as HTMLButtonElement;
+
+      let secHeadings: HTMLElement[] = [];
+      let currentSecIdx = 0;
+
+      function buildSecNav() {
+        const compline   = document.querySelector('#section-compline')!;
+        const activeDay  = sections.find(s => s.classList.contains('active'))!;
+        const conclusion = document.querySelector('#section-conclusion')!;
+        secHeadings = [];
+        [compline, activeDay, conclusion].forEach(sec => {
+          if (!sec) return;
+          sec.querySelectorAll<HTMLElement>('h2').forEach(h => secHeadings.push(h));
+        });
+        updateSecBar();
+      }
+
+      function getCurrentSecIdx(): number {
+        // The current section is the last h2 whose top is at or above 40% of the viewport
+        const threshold = window.scrollY + window.innerHeight * 0.4;
+        let idx = 0;
+        for (let i = 0; i < secHeadings.length; i++) {
+          if (secHeadings[i].getBoundingClientRect().top + window.scrollY <= threshold) {
+            idx = i;
+          }
+        }
+        return idx;
+      }
+
+      function updateSecBar() {
+        if (secHeadings.length === 0) return;
+        currentSecIdx = getCurrentSecIdx();
+        secLabel.textContent = secHeadings[currentSecIdx].textContent?.trim() ?? '';
+        secPrev.disabled = currentSecIdx === 0;
+        secNext.disabled = currentSecIdx === secHeadings.length - 1;
+      }
+
+      function scrollToSec(idx: number) {
+        if (idx < 0 || idx >= secHeadings.length) return;
+        secHeadings[idx].scrollIntoView({ behavior: 'smooth', block: 'start' });
+        // Optimistically update label while smooth scroll is in progress
+        currentSecIdx = idx;
+        secLabel.textContent = secHeadings[idx].textContent?.trim() ?? '';
+        secPrev.disabled = idx === 0;
+        secNext.disabled = idx === secHeadings.length - 1;
+      }
+
+      secPrev.addEventListener('click', () => scrollToSec(currentSecIdx - 1));
+      secNext.addEventListener('click', () => scrollToSec(currentSecIdx + 1));
+      window.addEventListener('scroll', updateSecBar, { passive: true });
+
+      buildSecNav();
     </script>
   </body>
 </html>

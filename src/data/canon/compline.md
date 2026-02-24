@@ -42,8 +42,7 @@ and lead us not into temptation,
 but deliver us from the evil one.
 
 
-**Priest:** For thine is the kingdom and the power and the glory, of the Father and of the Son and of the Holy Spirit,
-now and ever, and to the ages of ages.
+**Priest:** For thine is the kingdom and the power and the glory, of the Father and of the Son and of the Holy Spirit, now and ever, and to the ages of ages.
 
 
 Amen. Lord, have mercy. **(12x)**

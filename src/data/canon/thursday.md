@@ -2,115 +2,117 @@
 
 ## Ode 1
 
-_Tone 6_
-
 **Irmos:** A helper and a protector, He has become my salvation. This is my God, I will glorify Him, my father’s God will I exalt, for gloriously has He been glorified.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-O Lamb of God that takest away the sins of all, take from the heavy burden of sin, and in Thy compassion, grant me tears of repentance.
+O Lamb of God that takest away the sins of all, take from the heavy burden of sin, and in Thy compassion, grant me tears of repentance.
 
-I fall down before Thee, O Jesus, for I have sinned against Thee. Be merciful to me; take away from me the heavy burden of sin, and in Thy compassion, grant me tears of repentance.
+I fall down before Thee, O Jesus, for I have sinned against Thee. Be merciful to me; take away from me the heavy burden of sin, and in Thy compassion, grant me tears of repentance.
 
-Enter not into judgement with me by recalling all my deeds, demanding an account of all my words or by examining my motives and desires. But in Thy compassion, O Almighty One, disregard my terrible past and save me.
+Enter not into judgement with me by recalling all my deeds, demanding an account of all my words or by examining my motives and desires. But in Thy compassion, O Almighty One, disregard my terrible past and save me.
 
-The time for repentance has come and I draw near to Thee, O my Creator. Take from me the heavy burden of sin, and in Thy compassion, grant me tears of repentance.
+The time for repentance has come and I draw near to Thee, O my Creator. Take from me the heavy burden of sin, and in Thy compassion, grant me tears of repentance.
 
-Having squandered the substance of my soul in sin, I am bereft of every holy virtue, and in my hunger, like the Prodigal I cry: O compassionate Father, have mercy on me and save me.
+Having squandered the substance of my soul in sin, I am bereft of every holy virtue, and in my hunger, like the Prodigal I cry: O compassionate Father, have mercy on me and save me.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: By submitting to Christ’s divine laws, thou hast drawn near to Him, O Mother Mary; and by forsaking thy unbridled longings for pleasure, thou hast gained as one, all of the godly virtues.
+Venerable Mother Mary, pray to God for us. To St Mary of Egypt: By submitting to Christ’s divine laws, thou hast drawn near to Him, O Mother Mary; and by forsaking thy unbridled longings for pleasure, thou hast gained as one, all of the godly virtues.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
-**To the Trinity:** O Trinity, Who surpasses all creation and is adored in Unity, take from me the heavy yoke of sin, and in Thy compassion grant me tears of compunction.
+**To the Trinity:** O Trinity, Who surpasses all creation and is adored in Unity, take from me the heavy yoke of sin, and in Thy compassion grant me tears of compunction.
 
 _Now and ever, and unto ages of ages. Amen._
 
-**Theotokion:** O Theotokos, the hope and protection of those who praise thee, take from me the heavy yoke of sin and as thou art our Most-pure Lady, accept me in repentance.
+**Theotokion:** O Theotokos, the hope and protection of those who praise thee, take from me the heavy yoke of sin and as thou art our Most-pure Lady, accept me in repentance.
 
 ## Ode 2
 
 **Irmos:** See, see that I am God, Who sent manna, Who made water to spring from the rock in ancient times for My people in the wilderness, by My right hand, and by My strength alone.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-Lamech cried aloud, lamenting: ‘I have killed a man and wounded myself, and a young man unto my pain’. But thou, O my soul, dost not even tremble while defiling thy flesh and polluting thy mind.
+Lamech cried aloud, lamenting: ‘I have killed a man and wounded myself, and a young man unto my pain’. But thou, O my soul, dost not even tremble while defiling thy flesh and polluting thy mind.
 
-Skillfully hast thou planned to build a tower, O my soul, and to fortify it with thy passions; but the Creator hast confounded thy designs and has dashed all thy devices to the ground.
+Skillfully hast thou planned to build a tower, O my soul, and to fortify it with thy passions; but the Creator hast confounded thy designs and has dashed all thy devices to the ground.
 
-O see, how much I have become like Lamech, the murderer of old, slaying my soul as if it were the man, my mind as if it were the youth, and my body as did Cain murdering his brother, with my sensual passions.
+O see, how much I have become like Lamech, the murderer of old, slaying my soul as if it were the man, my mind as if it were the youth, and my body as did Cain murdering his brother, with my sensual passions.
 
-Angered by their transgressions, the Lord once rained down fire from Heaven and burnt up the men of Sodom; but thou, O my soul, hast kindled the fires of Gehenna, in which thou shalt surely burn.
+Angered by their transgressions, the Lord once rained down fire from Heaven and burnt up the men of Sodom; but thou, O my soul, hast kindled the fires of Gehenna, in which thou shalt surely burn.
 
 I am wounded, I am smitten, and the arrows of the enemy have pierced my body and my soul. See the wounds, the open sores and the mutilations, which betray the blows of my self-inflicted passions.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Plunged into the depths of sin, thou didst raise thy hands, O Mary, towards the merciful God. And, as to Peter, in His loving-kindness He stretched out His hand to thee in help, ever seeking thy conversion.
+Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Plunged into the depths of sin, thou didst raise thy hands, O Mary, towards the merciful God. And, as to Peter, in His loving-kindness He stretched out His hand to thee in help, ever seeking thy conversion.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
-**To the Trinity:** O Trinity uncreated and without beginning, O Unity undivided, accept me in repentance and save me, for I have sinned. O despise me not, for I am Thy creation, but take pity on me and deliver me from the fire of condemnation.
+**To the Trinity:** O Trinity uncreated and without beginning, O Unity undivided, accept me in repentance and save me, for I have sinned. O despise me not, for I am Thy creation, but take pity on me and deliver me from the fire of condemnation.
 
 _Now and ever, and unto ages of ages. Amen._
 
-**Theotokion:** O Most-pure Lady, Mother of God, the hope of those who run to thee and haven of the storm-tossed and oppressed; pray to the merciful God, thy Creator and thy Son, that He will have mercy on me through thine intercessions.
+**Theotokion:** O Most-pure Lady, Mother of God, the hope of those who run to thee and haven of the storm-tossed and oppressed; pray to the merciful God, thy Creator and thy Son, that He will have mercy on me through thine intercessions.
 
 ## Ode 3
 
-**Irmos:** Establish, O Lord, my unstable heart on the rock of Thy commandments, for Thou only art Holy and the Lord.
+**Irmos:** Establish, O Lord, my unstable heart on the rock of Thy commandments, for Thou only art Holy and the Lord.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-Thou hast become like Hagar the Egyptian, O my soul; for of thine own free will hast thou become enslaved and given birth to contempt, as to another Ishmael.
+Thou hast become like Hagar the Egyptian, O my soul; for of thine own free will hast thou become enslaved and given birth to contempt, as to another Ishmael.
 
-Thou knowest of the ladder that was shown to Jacob, reaching up from earth to Heaven, O my soul. Why then, hast thou not set foot upon the firm step of piety?
+Thou knowest of the ladder that was shown to Jacob, reaching up from earth to Heaven, O my soul. Why then, hast thou not set foot upon the firm step of piety?
 
 Imitate Melchizedek, the Priest of God and solitary king, who was the image of Christ among men in the world.
 
-Turn back, O my wretched soul, and lament, before the festival of life comes to an end, before the Lord shuts the door of the bridal chamber.
+Turn back, O my wretched soul, and lament, before the festival of life comes to an end, before the Lord shuts the door of the bridal chamber.
 
-Do not look back, O my soul, and so become a pillar of salt; but rather, fear the example of Sodom, and take refuge on the mountain of Zoar.
+Do not look back, O my soul, and so become a pillar of salt; but rather, fear the example of Sodom, and take refuge on the mountain of Zoar.
 
-Reject not the prayer of those who praise Thee, O Master, but take pity on us and grant forgiveness to those who call on Thee with faith, O Lover of mankind.
+Reject not the prayer of those who praise Thee, O Master, but take pity on us and grant forgiveness to those who call on Thee with faith, O Lover of mankind.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
-**To the Trinity:** O simple Unity praised in a Trinity of Persons; O uncreated Nature without beginning, save us who in faith worship Thy power.
+**To the Trinity:** O simple Unity praised in a Trinity of Persons; O uncreated Nature without beginning, save us who in faith worship Thy power.
 
 _Now and ever, and unto ages of ages. Amen._
 
-**Theotokion:** O Virgin Theotokos, thou hast given birth within time to the timeless Son of the Father. O strange wonder! Thou givest Him milk while still remaining Virgin!
+**Theotokion:** O Virgin Theotokos, thou hast given birth within time to the timeless Son of the Father. O strange wonder! Thou givest Him milk while still remaining Virgin!
 
 ## Ode 4
 
-**Irmos:** The prophet heard of Thy coming, O Lord, and was afraid that Thou wast to be born of a Virgin and appear to men, and he said, ‘I have heard the report of Thee and am afraid.’ Glory to Thy power, O Lord.
+**Irmos:** The prophet heard of Thy coming, O Lord, and was afraid that Thou wast to be born of a Virgin and appear to men, and he said, ‘I have heard the report of Thee and am afraid.’ Glory to Thy power, O Lord.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-The time of life is short, full of wickedness and pain. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
+The time of life is short, full of wickedness and pain. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
 
 Job, the righteous man of great possessions, with an abundance of riches and cattle, was clothed in royal dignity, in crown and purple robe. He was suddenly deprived of his wealth and kingship and glory, and reduced to the state of a beggar.
 
-If he who was righteous and blameless above all men could not escape the snares and assaults of the deceiver, what wilt thou do, O wretched and sinful soul, when some sudden misfortune befalls thee?
+If he who was righteous and blameless above all men could not escape the snares and assaults of the deceiver, what wilt thou do, O wretched and sinful soul, when some sudden misfortune befalls thee?
 
-Although I am boastful and vain, hard-hearted and arrogant in speech, condemn me not with the Pharisee, O righteous Judge. But rather, grant me the humility of the Publican and number me with him, O only merciful One.
+Although I am boastful and vain, hard-hearted and arrogant in speech, condemn me not with the Pharisee, O righteous Judge. But rather, grant me the humility of the Publican and number me with him, O only merciful One.
 
-I know, O compassionate Lord, that I have sinned, having defiled the vessel of my flesh. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
+I know, O compassionate Lord, that I have sinned, having defiled the vessel of my flesh. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
 
-I have become mine own idol and have defaced my soul through my passions, O compassionate One. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
+I have become mine own idol and have defaced my soul through my passions, O compassionate One. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
 
-I have disobeyed Thy Scripture and not listened to Thy voice, O Giver of the Law. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
+I have disobeyed Thy Scripture and not listened to Thy voice, O Giver of the Law. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
 
 Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: Though brought down into the abyss of great iniquity, thou didst not remain there, O Mother Mary; but through thy steadfast intent, thou hast ascended to the heights of virtue, astonishing even the Angels.
+To St Mary of Egypt: Though brought down into the abyss of great iniquity, thou didst not remain there, O Mother Mary; but through thy steadfast intent, thou hast ascended to the heights of virtue, astonishing even the Angels.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
@@ -122,45 +124,47 @@ _Now and ever, and unto ages of ages. Amen._
 
 ## Ode 5
 
-**Irmos:** Out of the night watching early for Thee, enlighten me I pray, O Lover of man, and guide me in Thy commandments and teach me O Savior, to do Thy will.
+**Irmos:** Out of the night watching early for Thee, enlighten me I pray, O Lover of man, and guide me in Thy commandments and teach me O Savior, to do Thy will.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-Imitate the woman who was bowed to the ground, O my soul, and fall at the feet of Jesus, that He strengthen thy back to walk upright in the steps of the Lord.
+Imitate the woman who was bowed to the ground, O my soul, and fall at the feet of Jesus, that He strengthen thy back to walk upright in the steps of the Lord.
 
-As Thou art a deep well, O Master, pour out the streams from Thine immaculate Wound, that like the woman of Samaria, I may drink of Thy streams of life and thirst no more.
+As Thou art a deep well, O Master, pour out the streams from Thine immaculate Wound, that like the woman of Samaria, I may drink of Thy streams of life and thirst no more.
 
-O my Master and my Lord, may my tears be like the Pool of Siloam that I may wash the eyes of my heart, and with my mind I may behold Thee, the pre-eternal Light.
+O my Master and my Lord, may my tears be like the Pool of Siloam that I may wash the eyes of my heart, and with my mind I may behold Thee, the pre-eternal Light.
 
 Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: With incomparable love, O Most-blessèd Saint, thou didst yearn to venerate the Tree of Life, and thou wast counted worthy of thy desire. Make me also worthy to obtain that glory from on high.
+To St Mary of Egypt: With incomparable love, O Most-blessèd Saint, thou didst yearn to venerate the Tree of Life, and thou wast counted worthy of thy desire. Make me also worthy to obtain that glory from on high.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
-**To the Trinity:** We glorify Thee, O Trinity, as One God! Holy, Holy, Holy, art Thou, Father, Son and Holy Spirit; simple Essence and Unity worshipped for ever.
+**To the Trinity:** We glorify Thee, O Trinity, as One God! Holy, Holy, Holy, art Thou, Father, Son and Holy Spirit; simple Essence and Unity worshipped for ever.
 
 _Now and ever, and unto ages of ages. Amen._
 
-**Theotokion:** From thee, O Virgin undefiled and maiden Mother, has God the Creator of the ages, become vested in my human flesh, uniting to Himself the nature of man.
+**Theotokion:** From thee, O Virgin undefiled and maiden Mother, has God the Creator of the ages, become vested in my human flesh, uniting to Himself the nature of man.
 
 ## Ode 6
 
 **Irmos:** With my whole heart, I cried unto the compassionate God: and He heard me, and He lifted up my soul from the depths of hell and from corruption.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-I am the coin marked with the royal image which was lost of old; but seek me by the light of Thy candle and Forerunner, and find again Thine Image, O my Savior.
+I am the coin marked with the royal image which was lost of old; but seek me by the light of Thy candle and Forerunner, and find again Thine Image, O my Savior.
 
-Arise, O my soul, and make war against the passions of the flesh as Joshua did against Amalek, ever gaining the victory over the Gibeonites, thine evil thoughts.
+Arise, O my soul, and make war against the passions of the flesh as Joshua did against Amalek, ever gaining the victory over the Gibeonites, thine evil thoughts.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: With thy soul afire, O Mary, thou hast shed copious streams of tears that quenched the burning of thy passions. O grant them also unto me, thy servant, these tears of grace.
+Venerable Mother Mary, pray to God for us. To St Mary of Egypt: With thy soul afire, O Mary, thou hast shed copious streams of tears that quenched the burning of thy passions. O grant them also unto me, thy servant, these tears of grace.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Through the perfection of thine earthly life, O Venerable Mother, thou hast acquired heavenly freedom from thy passions. Pray that we who sing thy praises may also be delivered from our passions, through thine intercessions.
+Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Through the perfection of thine earthly life, O Venerable Mother, thou hast acquired heavenly freedom from thy passions. Pray that we who sing thy praises may also be delivered from our passions, through thine intercessions.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
@@ -168,23 +172,25 @@ _Glory to the Father and to the Son and to the Holy Spirit._
 
 _Now and ever, and unto ages of ages. Amen._
 
-**Theotokion:** Thy womb bore God for us, fashioned in our image. Implore thou Him as the Creator of all, O Theotokos, that we may be justified through thine intercessions. Kontakion (TONE 6): My soul, my soul arise! Why art thou sleeping? The end is drawing near and thou wilt be confounded. Awake then and be watchful, that thou mayest be spared by Christ God, Who is everywhere and fillest all things.
+**Theotokion:** Thy womb bore God for us, fashioned in our image. Implore thou Him as the Creator of all, O Theotokos, that we may be justified through thine intercessions. 
+
+**Kontakion:** My soul, my soul arise! Why art thou sleeping? The end is drawing near and thou wilt be confounded. Awake then and be watchful, that thou mayest be spared by Christ God, Who is everywhere and fillest all things.
 
 ## Ode 7
 
-**Irmos:** We have sinned, transgressed, done wrong before Thee. We have not watched or done as Thou hast commanded us. But do not give us up utterly, O God of our fathers.
+**Irmos:** We have sinned, transgressed, done wrong before Thee. We have not watched or done as Thou hast commanded us. But do not give us up utterly, O God of our fathers.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-My days have vanished like a dream of one awaking. Therefore, like Hezekiah, I weep while lying on my bed, that years may be added to my life. But what Isaiah will come to me, O soul, except the God of all?
+My days have vanished like a dream of one awaking. Therefore, like Hezekiah, I weep while lying on my bed, that years may be added to my life. But what Isaiah will come to me, O soul, except the God of all?
 
-I fall down before Thee, and as tears I offer Thee my words: I have sinned like the Harlot, and transgressed as no one else on earth; but take pity on me Thy creature, O Master, and call me back to Thee.
+I fall down before Thee, and as tears I offer Thee my words: I have sinned like the Harlot, and transgressed as no one else on earth; but take pity on me Thy creature, O Master, and call me back to Thee.
 
-I have buried Thine image and have broken Thy commandment. All my beauty is destroyed and my lamp is gone out because of all my sins. But do Thou as David sings, ‘take pity on me, O Savior, and restore me to Thy joy’.
+I have buried Thine image and have broken Thy commandment. All my beauty is destroyed and my lamp is gone out because of all my sins. But do Thou as David sings, ‘take pity on me, O Savior, and restore me to Thy joy’.
 
-Turn back, repent, and uncover all that thou hast hidden. Come and say unto God, to Whom all things are known: Thou alone knowest all my secrets, O Savior, ‘have mercy on me’, as David sings, ‘according to Thy mercy’.
+Turn back, repent, and uncover all that thou hast hidden. Come and say unto God, to Whom all things are known: Thou alone knowest all my secrets, O Savior, ‘have mercy on me’, as David sings, ‘according to Thy mercy’.
 
 Venerable Mother Mary, pray to God for us.
 
@@ -196,69 +202,72 @@ To St Mary of Egypt: Pray to Him Whom thou hast loved, pray to Him Whom thou has
 
 Venerable Mary; pray to Christ for us, thy servants, that He may show mercy on us all, and grant peace to those who worship Him.
 
+
 _Glory to the Father and to the Son and to the Holy Spirit._
 
-**To the Trinity:** O Trinity, simple and undivided, consubstantial and of One Nature. We praise Thee, Light and Lights, One Holy and Three Holies, God the Trinity! Sing, O my soul, and glorify the Life of Lives, the God of all.
+**To the Trinity:** O Trinity, simple and undivided, consubstantial and of One Nature. We praise Thee, Light and Lights, One Holy and Three Holies, God the Trinity! Sing, O my soul, and glorify the Life of Lives, the God of all.
 
 _Now and ever, and unto ages of ages. Amen._
 
-**Theotokion:** We praise thee, we bless thee, we venerate thee, O Mother of God: for thou hast given birth to Christ God, One of the undivided Trinity, and hast opened the Heavens to us on earth.
+**Theotokion:** We praise thee, we bless thee, we venerate thee, O Mother of God: for thou hast given birth to Christ God, One of the undivided Trinity, and hast opened the Heavens to us on earth.
 
 ## Ode 8
 
 **Irmos:** Him whom the hosts of heaven glorify, whom the Cherubim and Seraphim dread, let every breath and creature praise, bless and magnify throughout all ages.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-As precious myrrh, O Savior, I empty on Thine head the alabaster jar of my tears, and like the Harlot I cry beseeching Thy mercy: I offer Thee my supplications and I beg for Thy forgiveness.
+As precious myrrh, O Savior, I empty on Thine head the alabaster jar of my tears, and like the Harlot I cry beseeching Thy mercy: I offer Thee my supplications and I beg for Thy forgiveness.
 
-No one has sinned against Thee as I have; yet accept even me, O compassionate Savior, for I repent with fear and I cry out with love: against Thee only have I sinned, have mercy on me, O Most merciful One.
+No one has sinned against Thee as I have; yet accept even me, O compassionate Savior, for I repent with fear and I cry out with love: against Thee only have I sinned, have mercy on me, O Most merciful One.
 
-Spare the work of Thine hands, O Savior, and as the Shepherd, seek the lost sheep that has gone astray. Snatch me away from the wolf and make me as a lamb, safe among the sheep of Thy pasture.
+Spare the work of Thine hands, O Savior, and as the Shepherd, seek the lost sheep that has gone astray. Snatch me away from the wolf and make me as a lamb, safe among the sheep of Thy pasture.
 
-When Thou sittest upon Thy throne, O merciful Judge, and revealest Thy dread glory, O what fear there will be then; when the furnace shall burn, and all shall tremble before the majesty of Thy Judgement seat, O Christ!
+When Thou sittest upon Thy throne, O merciful Judge, and revealest Thy dread glory, O what fear there will be then; when the furnace shall burn, and all shall tremble before the majesty of Thy Judgement seat, O Christ!
 
 Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: The Mother of the eternal Light hath illumined thee and freed thee from the darkness of the passions. Therefore, having received the Grace of the Spirit, O Mary, enlighten even us who praise thee now in faith.
+To St Mary of Egypt: The Mother of the eternal Light hath illumined thee and freed thee from the darkness of the passions. Therefore, having received the Grace of the Spirit, O Mary, enlighten even us who praise thee now in faith.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Beholding in thee a new wonder, O Venerable Mother, the holy Zosimas was truly amazed; for he saw an Angel in the flesh, and was filled with great astonishment, praising Christ unto all ages.
+Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Beholding in thee a new wonder, O Venerable Mother, the holy Zosimas was truly amazed; for he saw an Angel in the flesh, and was filled with great astonishment, praising Christ unto all ages.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
-**To the Trinity:** O Eternal Father, Co-eternal Son and Gracious Comforter, the Spirit of Righteousness, Father of the Divine Word, Word of the Eternal Father, and Living and Creating Spirit. O Trinity, One in Unity, have mercy on me!
+**To the Trinity:** O Eternal Father, Co-eternal Son and Gracious Comforter, the Spirit of Righteousness, Father of the Divine Word, Word of the Eternal Father, and Living and Creating Spirit. O Trinity, One in Unity, have mercy on me!
 
 _Now and ever, and unto ages of ages. Amen._
 
-**Theotokion:** The spiritual purple of Emmanuel was woven inside thy womb as if from scarlet silk, O Most-pure Virgin. Therefore we honor thee as truly Theotokos.
+**Theotokion:** The spiritual purple of Emmanuel was woven inside thy womb as if from scarlet silk, O Most-pure Virgin. Therefore we honor thee as truly Theotokos.
 
 ## Ode 9
 
 **Irmos:** Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.
 
-**Refrain:** _Have mercy on me, O God, have mercy on me._
+**Refrain:** _Have mercy on me, O God, have mercy on me._
 
 ### Troparia
 
-Take pity on me, save me and have mercy on me, O Son of David, Who didst heal the man possessed by demons with Thy Word; and let me hear Thy compassionate voice speak to me as to the Thief: ‘Truly, I say unto thee, thou shalt be with me in Paradise, when I shall come in My glory.’
+Take pity on me, save me and have mercy on me, O Son of David, Who didst heal the man possessed by demons with Thy Word; and let me hear Thy compassionate voice speak to me as to the Thief: ‘Truly, I say unto thee, thou shalt be with me in Paradise, when I shall come in My glory.’
 
-One thief reviled Thee and the other thief confessed Thy Divinity while each was hanging on his cross. So open even unto me, O Most-compassionate One, the door of Thy glorious Kingdom, as unto Thy believing Thief, who acknowledged Thee as God.
+One thief reviled Thee and the other thief confessed Thy Divinity while each was hanging on his cross. So open even unto me, O Most-compassionate One, the door of Thy glorious Kingdom, as unto Thy believing Thief, who acknowledged Thee as God.
 
-All of creation was in anguish, seeing Thee crucified. The mountains and rocks fell asunder from fear, the earth did quake, hell was laid bare, and the light grew dark in the middle of day, seeing Thee, O Jesus, nailed to the Cross.
+All of creation was in anguish, seeing Thee crucified. The mountains and rocks fell asunder from fear, the earth did quake, hell was laid bare, and the light grew dark in the middle of day, seeing Thee, O Jesus, nailed to the Cross.
 
-Do not require of me worthy fruits of repentance, for my strength has failed within me. Rather, grant me an ever-contrite heart and a poor and simple spirit, that I may offer them to Thee as a pleasing sacrifice, O only Savior.
+Do not require of me worthy fruits of repentance, for my strength has failed within me. Rather, grant me an ever-contrite heart and a poor and simple spirit, that I may offer them to Thee as a pleasing sacrifice, O only Savior.
 
-O my Judge Who knowest me, look upon me with Thy merciful eye when Thou comest again with the Angels to judge the whole world, and spare me; take pity on me, O Jesus, for I have sinned more than any other.
+O my Judge Who knowest me, look upon me with Thy merciful eye when Thou comest again with the Angels to judge the whole world, and spare me; take pity on me, O Jesus, for I have sinned more than any other.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Thou didst astonish both the ranks of Angels and the assemblies of men by thy wondrous life, O Mother Mary; for by living in the spirit thou hast surpassed all nature, and like a bodiless Angel, thou didst cross the River Jordan as if with immaterial feet.
+Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Thou didst astonish both the ranks of Angels and the assemblies of men by thy wondrous life, O Mother Mary; for by living in the spirit thou hast surpassed all nature, and like a bodiless Angel, thou didst cross the River Jordan as if with immaterial feet.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Intercede with the Creator for us who sing thy praises, O Venerable Mother Mary, that we may be set free from the sufferings and afflictions that assail us from every side, and that being delivered from misfortunes we may unceasingly magnify the Lord Who has glorified thee.
+Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Intercede with the Creator for us who sing thy praises, O Venerable Mother Mary, that we may be set free from the sufferings and afflictions that assail us from every side, and that being delivered from misfortunes we may unceasingly magnify the Lord Who has glorified thee.
 
 _Venerable Father Andrew, pray to God for us._
 
-**To Saint Andrew:** O Venerable and Thrice-blessèd Father Andrew, the shepherd of Crete; cease not to offer thy prayers for us who sing thy praises; that we may be delivered from every danger and affliction, from corruption and sin, who honor thy memory with faith.
+**To Saint Andrew:** O Venerable and Thrice-blessèd Father Andrew, the shepherd of Crete; cease not to offer thy prayers for us who sing thy praises; that we may be delivered from every danger and affliction, from corruption and sin, who honor thy memory with faith.
+
 
 _Glory to the Father and to the Son and to the Holy Spirit._
 
@@ -266,6 +275,6 @@ _Glory to the Father and to the Son and to the Holy Spirit._
 
 _Now and ever, and unto ages of ages. Amen._
 
-**Theotokion:** Protect this, thy habitation, O Most-pure Mother of God, for through thee she reigns in faith, by thee she is made strong, by thee she is made victorious defeating every trial and temptation, despoiling every enemy and ruling over her obedient servants.
+**Theotokion:** Protect this, thy habitation, O Most-pure Mother of God, for through thee she reigns in faith, by thee she is made strong, by thee she is made victorious defeating every trial and temptation, despoiling every enemy and ruling over her obedient servants.
 
 **Katavasia, Irmos 9: Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.**
