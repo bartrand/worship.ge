@@ -1,4 +1,4 @@
-## The Prayer of St. Ephrem
+## The Prayer of St. Ephrem
 
 O Lord and Master of my life, give me not a spirit of sloth, despair, lust off power, and idle talk. **(Prostration)**
 But give rather a spirit of chastity, humility, patience, and love to thy servant. **(Prostration)**
