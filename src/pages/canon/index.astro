@@ -56,12 +56,53 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       /* ── Font size control ── */
       .font-size-control {
         display: flex;
+        align-items: center;
         justify-content: center;
         gap: 0.5rem;
         padding: 0.85rem 1.1rem;
         border-top: 1px solid var(--border);
         flex-shrink: 0;
       }
+
+      .font-size-label {
+        font-size: 0.72rem;
+        letter-spacing: 0.09em;
+        text-transform: uppercase;
+        color: var(--text-muted);
+        margin-right: 0.35rem;
+        flex-shrink: 0;
+      }
+
+      /* ── TOC one-time hint ── */
+      .toc-hint {
+        position: fixed;
+        top: 0.4rem;
+        right: 3.1rem;
+        z-index: 200;
+        background: var(--surface);
+        border: 1px solid var(--accent-dim);
+        color: var(--accent);
+        font-family: var(--font);
+        font-size: 0.78rem;
+        letter-spacing: 0.03em;
+        padding: 0.32rem 0.6rem;
+        border-radius: 4px;
+        white-space: nowrap;
+        pointer-events: none;
+        opacity: 1;
+        transition: opacity 0.5s ease;
+      }
+      .toc-hint::after {
+        content: '';
+        position: absolute;
+        top: 50%;
+        right: -5px;
+        transform: translateY(-50%);
+        border: 5px solid transparent;
+        border-left-color: var(--accent-dim);
+        border-right: none;
+      }
+      .toc-hint.hidden { opacity: 0; }
 
       .font-size-control button {
         background: none;
@@ -262,8 +303,8 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       /* ── TOC button ── */
       .toc-btn {
         position: fixed;
-        top: 1rem;
-        right: 1rem;
+        top: 0.5rem;
+        right: 0.5rem;
         z-index: 200;
         background: var(--surface);
         border: 1px solid var(--border);
@@ -403,6 +444,7 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
 
     <!-- TOC button -->
     <button class="toc-btn" id="toc-btn" aria-label="Table of contents">☰</button>
+    <div class="toc-hint" id="toc-hint">Contents &amp; text size</div>
 
     <!-- TOC overlay -->
     <div class="toc-overlay" id="toc-overlay"></div>
@@ -415,6 +457,7 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       </div>
       <div class="toc-list" id="toc-list"></div>
       <div class="font-size-control" aria-label="Font size">
+        <span class="font-size-label">Text size</span>
         <button data-size="font-small"  aria-label="Small text">A</button>
         <button data-size="font-medium" aria-label="Medium text" style="font-size:1.15em">A</button>
         <button data-size="font-large"  aria-label="Large text"  style="font-size:1.35em">A</button>
@@ -478,8 +521,19 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       const tocOverlay = document.getElementById('toc-overlay')!;
       const tocClose   = document.getElementById('toc-close')!;
       const tocList    = document.getElementById('toc-list')!;
+      const tocHint    = document.getElementById('toc-hint')!;
 
-      function openToc()  { tocDrawer.classList.add('open'); tocOverlay.classList.add('open'); }
+      const HINT_KEY = 'canon-toc-hint-seen';
+      if (localStorage.getItem(HINT_KEY)) tocHint.classList.add('hidden');
+
+      function openToc() {
+        tocDrawer.classList.add('open');
+        tocOverlay.classList.add('open');
+        if (!localStorage.getItem(HINT_KEY)) {
+          localStorage.setItem(HINT_KEY, '1');
+          tocHint.classList.add('hidden');
+        }
+      }
       function closeToc() { tocDrawer.classList.remove('open'); tocOverlay.classList.remove('open'); }
 
       tocBtn.addEventListener('click', openToc);

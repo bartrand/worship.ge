@@ -1,6 +1,6 @@
 **The refrains are sung after each troparion. At each refrain we make the sign of the cross and a full prostration.**
 
-## ODE 1
+## Ode 1
 
 _Tone 6_
 
@@ -32,7 +32,7 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** O Theotokos, the hope and protection of those who praise thee, take from me the heavy yoke of sin and as thou art our Most-pure Lady, accept me in repentance.
 
-## ODE 2
+## Ode 2
 
 **Irmos:** Attend, O heaven and I will speak, I will sing of Christ, Who from the Virgin took flesh to dwell with us.
 
@@ -68,7 +68,7 @@ Whom dost thou resemble, O most sinful soul? Surely thou art like Cain and that 
 
 Of all those who have lived before the law, O my soul, thou hast not patterned thyself after Seth, nor has thou followed after Enos or Enoch, who was translated to Heaven, or Noah; but hast shown thyself destitute and without a share in the life of the Righteous.
 
-Thou alone hast released the torrents of the wrath of God, O my soul, and hast flooded, as the earth, all thy flesh and works and life. Therefore, thou hast remained outside the Ark of salvation.
+Thou alone hast released the torrents of the wrath of God, O my soul, and hast floOded, as the earth, all thy flesh and works and life. Therefore, thou hast remained outside the Ark of salvation.
 
 Venerable Mother Mary, pray to God for us.
 
@@ -82,9 +82,9 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** O Most-pure Lady, Mother of God, the hope of those who run to thee and haven of the storm-tossed and oppressed; pray to the merciful God, thy Creator and thy Son, that He will have mercy on me through thine intercessions.
 
-## ODE 3
+## Ode 3
 
-**Irmos:** Establish, O Lord, my unstable heart on the rock of Thy command- ments, for Thou only art Holy and the Lord.
+**Irmos:** Establish, O Lord, my unstable heart on the rock of Thy commandments, for Thou only art Holy and the Lord.
 
 **Refrain:** _Have mercy on me, O God, have mercy on me._
 
@@ -118,7 +118,7 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** O Virgin Theotokos, thou hast given birth within time to the timeless Son of the Father. O strange wonder! Thou givest Him milk while still remaining Virgin!
 
-## ODE 4
+## Ode 4
 
 **Irmos:** The prophet heard of Thy coming, O Lord, and was afraid that Thou wast to be born of a Virgin and appear to men, and he said, ‘I have heard the report of Thee and am afraid.’ Glory to Thy power, O Lord.
 
@@ -148,7 +148,7 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Thou givest birth and art a virgin, and in both thou remainest a virgin by nature. He Who is born renews the laws of nature, and the womb gives birth without travail. When God so wills, the order of nature is overruled, for He does whatsoever He wills.
 
-## ODE 5
+## Ode 5
 
 **Irmos:** Out of the night watching early for Thee, enlighten me I pray, O Lover of man, and guide me in Thy commandments and teach me O Savior, to do Thy will.
 
@@ -178,7 +178,7 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** From thee, O Virgin undefiled and maiden Mother, has God the Creator of the ages, become vested in my human flesh, uniting to Himself the nature of man.
 
-## ODE 6
+## Ode 6
 
 **Irmos:** With my whole heart, I cried unto the compassionate God: and He heard me, and He lifted up my soul from the depths of hell and from corruption.
 
@@ -202,7 +202,7 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Thy womb bore God for us, fashioned in our image. Implore thou Him as the Creator of all, O Theotokos, that we may be justified through thine intercessions. Kontakion (TONE 6): My soul, my soul arise! Why art thou sleeping? The end is drawing near and thou wilt be confounded. Awake then and be watchful, that thou mayest be spared by Christ God, Who is everywhere and fillest all things.
 
-## ODE 7
+## Ode 7
 
 **Irmos:** We have sinned, transgressed, done wrong before Thee. We have not watched or done as Thou hast commanded us. But do not give us up utterly, O God of our fathers.
 
@@ -226,7 +226,7 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** We praise thee, we bless thee, we venerate thee, O Mother of God: for thou hast given birth to Christ God, One of the undivided Trinity, and hast opened the Heavens to us on earth.
 
-## ODE 8
+## Ode 8
 
 **Irmos:** Him whom the hosts of heaven glorify, whom the Cherubim and Seraphim dread, let every breath and creature praise, bless and magnify throughout all ages.
 
@@ -250,7 +250,7 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** The spiritual purple of Emmanuel was woven inside thy womb as if from scarlet silk, O Most-pure Virgin. Therefore we honor thee as truly Theotokos.
 
-## ODE 9
+## Ode 9
 
 **Irmos:** Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.
 
@@ -283,7 +283,3 @@ _Venerable Father Andrew, pray to God for us._
 **To Saint Andrew:** O Venerable and Thrice-blessèd Father Andrew, the shepherd of Crete; cease not to offer thy prayers for us who sing thy praises; that we may be delivered from every danger and affliction, from corruption and sin, who honor thy memory with faith.
 
 **Katavasia, Irmos 9: Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.**
-
----
-
-_NOW THE READER CONTINUES WITH PSALM 4 AND THE REST OF THE SMALL COMPLINE FOLLOWS._
