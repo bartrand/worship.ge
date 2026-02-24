@@ -1,5 +1,3 @@
-**The refrains are sung after each troparion. At each refrain we make the sign of the cross and a full prostration.**
-
 ## Ode 1
 
 **Irmos:** A helper and a protector, He has become my salvation. This is my God, I will glorify Him, my father’s God will I exalt, for gloriously has He been glorified.
@@ -279,6 +277,7 @@ _Glory to the Father and to the Son and to the Holy Spirit._
 _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Protect this, thy habitation, O Most-pure Mother of God, for through thee she reigns in faith, by thee she is made strong, by thee she is made victorious defeating every trial and temptation, despoiling every enemy and ruling over her obedient servants.
+
 
 _Venerable Father Andrew, pray to God for us._
 

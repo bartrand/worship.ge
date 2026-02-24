@@ -1,5 +1,3 @@
-**The refrains are sung after each troparion. At each refrain we make the sign of the cross and a full prostration.**
-
 ## Ode 1
 
 **Irmos:** A helper and a protector, He has become my salvation. This is my God, I will glorify Him, my father’s God will I exalt, for gloriously has He been glorified.
@@ -8,7 +6,7 @@
 
 ### Troparia
 
-Of mine own free will have I incurred Cain’s guilt of murder; for I have murdered my own conscience by cultivating my flesh and making war upon my soul’s awareness by my wicked actions.
+Of mine own free will have I incurred Cain’s guilt of murder; for I have murdered my own conscience by cultivating my flesh and making war upon my soul’s awareness by my wicked actions. 
 
 I have refused to imitate Abel’s righteousness, O Jesus: never have I offered Thee any acceptable gift or godly work; neither a pure sacrifice nor a blameless life.
 
@@ -270,6 +268,7 @@ _Glory to the Father and to the Son and to the Holy Spirit._
 _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Protect this, thy habitation, O Most-pure Mother of God, for through thee she reigns in faith, by thee she is made strong, by thee she is made victorious defeating every trial and temptation, despoiling every enemy and ruling over her obedient servants.
+
 
 _Venerable Father Andrew, pray to God for us._
 

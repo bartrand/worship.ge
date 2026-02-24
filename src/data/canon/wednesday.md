@@ -1,8 +1,4 @@
-**The refrains are sung after each troparion. At each refrain we make the sign of the cross and a full prostration.**
-
 ## Ode 1
-
-_Tone 6_
 
 **Irmos:** A helper and a protector, He has become my salvation. This is my God, I will glorify Him, my father’s God will I exalt, for gloriously has He been glorified.
 
@@ -289,8 +285,9 @@ _Now and ever, and unto ages of ages. Amen._
 
 **Theotokion:** Protect this, thy habitation, O Most-pure Mother of God, for through thee she reigns in faith, by thee she is made strong, by thee she is made victorious defeating every trial and temptation, despoiling every enemy and ruling over her obedient servants.
 
+
 _Venerable Father Andrew, pray to God for us._
 
 **To Saint Andrew:** O Venerable and Thrice-blessèd Father Andrew, the shepherd of Crete; cease not to offer thy prayers for us who sing thy praises; that we may be delivered from every danger and affliction, from corruption and sin, who honor thy memory with faith.
 
-**Katavasia, Irmos 9: Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.**
+**Katavasia, Irmos 9:** Ineffable is the childbearing of a seedless conception; a mother remaining pure. For the birth of God renews nature’s birth; so in all ages we magnify thee in an Orthodox manner as the Mother and Bride of God.
