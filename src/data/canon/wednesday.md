@@ -16,9 +16,10 @@ I am the man who fell in among robbers who now lies wounded in body, beaten and 
 
 The Priest first saw me and passed me by, then the Levite looked on me in my distress but despised my nakedness. But do Thou, O Jesus, Son of Mary, come to me and take pity on me.
 
-Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: Grant me that illuminating Grace which was given thee by Providence on High, that I may escape the darkness of my passions and praise the glorious feats of thy life, O Mother Mary.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Grant me that illuminating Grace which was given thee by Providence on High, that I may escape the darkness of my passions and praise the glorious feats of thy life, O Mother Mary.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -49,7 +50,8 @@ Give ear to the groaning of my soul, and accept the drops of my tears, O Savior
 
 O Lover of mankind, Who desirest that all shall be saved, call me back and in Thy goodness, accept me in my repentance.
 
-Most Holy Theotokos, save us
+
+*Most Holy Theotokos, save us.*
 
 **Theotokion:** O Most-pure Theotokos and All-laudable Virgin, fervently intercede for our salvation.
 
@@ -65,11 +67,12 @@ Whom dost thou resemble, O most sinful soul? Surely thou art like Cain and that
 
 Of all those who have lived before the law, O my soul, thou hast not patterned thyself after Seth, nor has thou followed after Enos or Enoch, who was translated to Heaven, or Noah; but hast shown thyself destitute and without a share in the life of the Righteous.
 
-Thou alone hast released the torrents of the wrath of God, O my soul, and hast floOded, as the earth, all thy flesh and works and life. Therefore, thou hast remained outside the Ark of salvation.
+Thou alone hast released the torrents of the wrath of God, O my soul, and hast flooded, as the earth, all thy flesh and works and life. Therefore, thou hast remained outside the Ark of salvation.
 
-Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: Turning from the path of sin thou didst run with all eagerness to Christ, O Venerable Mother Mary, finding nourishment in the trackless wilderness and fulfilling in purity the commandments of God.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Turning from the path of sin thou didst run with all eagerness to Christ, O Venerable Mother Mary, finding nourishment in the trackless wilderness and fulfilling in purity the commandments of God.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -100,13 +103,14 @@ Thou knowest, O my wretched soul, how Isaac was mystically offered as a new sac
 
 Thou hast heard how Ishmael was driven out as the son of a slave; Beware, O my soul, lest the same should happen to thee because of thy sin.
 
-Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: I am overcome by the tempest and the billows of sin, O Mother Mary, but do thou rescue me and lead me to the safe haven of divine repentance.
+*Venerable Mother Mary, pray to God for us.*
 
-Venerable Mother Mary, pray to God for us.
+**To St Mary of Egypt:** I am overcome by the tempest and the billows of sin, O Mother Mary, but do thou rescue me and lead me to the safe haven of divine repentance.
 
-To St Mary of Egypt: Offer thy fervent supplications to the compassionate Mother of God, O Venerable Mary, and through thine intercessions open unto me the door that leads to God.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Offer thy fervent supplications to the compassionate Mother of God, O Venerable Mary, and through thine intercessions open unto me the door that leads to God.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -166,9 +170,10 @@ Spare, O spare the work of Thine hands, O Savior. I have sinned, forgive me; f
 
 As Thou art God, Thou didst take on my form for my sake, O Savior, and didst accomplish miracles; healing the lepers and the paralytics, and stopping the issue of blood when the woman touched the hem of Thy garment.
 
-Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: Having crossed the stream of the Jordan, thou didst find peace by escaping the temptations of the flesh. Deliver us from them also, O Venerable Mother Mary, through thine intercessions.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Having crossed the stream of the Jordan, thou didst find peace by escaping the temptations of the flesh. Deliver us from them also, O Venerable Mother Mary, through thine intercessions.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
