@@ -5,9 +5,10 @@ import { Content as TuesdayContent }  from '../../data/canon/tuesday.md';
 import { Content as WednesdayContent } from '../../data/canon/wednesday.md';
 import { Content as ThursdayContent }   from '../../data/canon/thursday.md';
 import { Content as ConclusionContent } from '../../data/canon/conclusion.md';
+import { Content as Week5Content }      from '../../data/canon/week5.md';
 
-const days = ['monday', 'tuesday', 'wednesday', 'thursday'];
-const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
+const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'week5'];
+const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Week V'];
 ---
 
 <!doctype html>
@@ -381,6 +382,9 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       <section class="day-content prose" id="day-thursday">
         <ThursdayContent />
       </section>
+      <section class="day-content prose" id="day-week5">
+        <Week5Content />
+      </section>
 
       <hr class="divider" />
 
@@ -443,8 +447,8 @@ const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
       applySize(localStorage.getItem(FS_KEY) ?? FS_DEFAULT);
 
       // ── Day chooser ────────────────────────────────────────────
-      const days = ['monday', 'tuesday', 'wednesday', 'thursday'];
-      const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday'];
+      const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'week5'];
+      const dayLabels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Week V'];
 
       // Determine current day in Tbilisi time (UTC+4, no DST)
       function getTbilisiDayIndex(): number {
