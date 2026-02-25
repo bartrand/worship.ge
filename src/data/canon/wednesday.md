@@ -55,7 +55,8 @@ O Lover of mankind, Who desirest that all shall be saved, call me back and in T
 
 **Theotokion:** O Most-pure Theotokos and All-laudable Virgin, fervently intercede for our salvation.
 
-Another Irmos: See, see that I am God, Who sent manna, Who made water to spring from the rock in ancient times for My people in the wilderness, by My right hand, and by My strength alone.
+
+**Another Irmos:** See, see that I am God, Who sent manna, Who made water to spring from the rock in ancient times for My people in the wilderness, by My right hand, and by My strength alone.
 
 **Refrain:** _Have mercy on me, O God, have mercy on me._
 
@@ -129,9 +130,7 @@ _Now and ever, and unto ages of ages. Amen._
 
 ### Troparia
 
-My body is corrupt, my spirit is defiled, and I am all covered with sores; but as Physician, O Christ, heal both my body and my spirit through my
-
-repentance. Wash me, purify me and cleanse me, O Savior, and make me whiter than snow.
+My body is corrupt, my spirit is defiled, and I am all covered with sores; but as Physician, O Christ, heal both my body and my spirit through my repentance. Wash me, purify me and cleanse me, O Savior, and make me whiter than snow.
 
 Thou hast offered Thy Body and Thy Blood for the sake of us all, O Crucified Word: Thy Body to renew me, Thy Blood to cleanse me, and Thou hast given up Thy Spirit, O Christ, to bring me to Thy Father.
 

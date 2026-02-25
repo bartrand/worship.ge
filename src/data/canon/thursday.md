@@ -16,7 +16,10 @@ The time for repentance has come and I draw near to Thee, O my Creator. Take fr
 
 Having squandered the substance of my soul in sin, I am bereft of every holy virtue, and in my hunger, like the Prodigal I cry: O compassionate Father, have mercy on me and save me.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: By submitting to Christ’s divine laws, thou hast drawn near to Him, O Mother Mary; and by forsaking thy unbridled longings for pleasure, thou hast gained as one, all of the godly virtues.
+
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** By submitting to Christ’s divine laws, thou hast drawn near to Him, O Mother Mary; and by forsaking thy unbridled longings for pleasure, thou hast gained as one, all of the godly virtues.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -45,7 +48,9 @@ Angered by their transgressions, the Lord once rained down fire from Heaven and 
 
 I am wounded, I am smitten, and the arrows of the enemy have pierced my body and my soul. See the wounds, the open sores and the mutilations, which betray the blows of my self-inflicted passions.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Plunged into the depths of sin, thou didst raise thy hands, O Mary, towards the merciful God. And, as to Peter, in His loving-kindness He stretched out His hand to thee in help, ever seeking thy conversion.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Plunged into the depths of sin, thou didst raise thy hands, O Mary, towards the merciful God. And, as to Peter, in His loving-kindness He stretched out His hand to thee in help, ever seeking thy conversion.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -107,9 +112,10 @@ I have become mine own idol and have defaced my soul through my passions, O com
 
 I have disobeyed Thy Scripture and not listened to Thy voice, O Giver of the Law. But accept me in repentance and call me back to spiritual awareness, that I may not fall as prey and become the possession of the enemy, and take pity on me, O Savior.
 
-Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: Though brought down into the abyss of great iniquity, thou didst not remain there, O Mother Mary; but through thy steadfast intent, thou hast ascended to the heights of virtue, astonishing even the Angels.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Though brought down into the abyss of great iniquity, thou didst not remain there, O Mother Mary; but through thy steadfast intent, thou hast ascended to the heights of virtue, astonishing even the Angels.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -134,9 +140,10 @@ As Thou art a deep well, O Master, pour out the streams from Thine immaculate W
 
 O my Master and my Lord, may my tears be like the Pool of Siloam that I may wash the eyes of my heart, and with my mind I may behold Thee, the pre-eternal Light.
 
-Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: With incomparable love, O Most-blessèd Saint, thou didst yearn to venerate the Tree of Life, and thou wast counted worthy of thy desire. Make me also worthy to obtain that glory from on high.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** With incomparable love, O Most-blessèd Saint, thou didst yearn to venerate the Tree of Life, and thou wast counted worthy of thy desire. Make me also worthy to obtain that glory from on high.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -159,9 +166,14 @@ I am the coin marked with the royal image which was lost of old; but seek me by 
 
 Arise, O my soul, and make war against the passions of the flesh as Joshua did against Amalek, ever gaining the victory over the Gibeonites, thine evil thoughts.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: With thy soul afire, O Mary, thou hast shed copious streams of tears that quenched the burning of thy passions. O grant them also unto me, thy servant, these tears of grace.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Through the perfection of thine earthly life, O Venerable Mother, thou hast acquired heavenly freedom from thy passions. Pray that we who sing thy praises may also be delivered from our passions, through thine intercessions.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** With thy soul afire, O Mary, thou hast shed copious streams of tears that quenched the burning of thy passions. O grant them also unto me, thy servant, these tears of grace.
+
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Through the perfection of thine earthly life, O Venerable Mother, thou hast acquired heavenly freedom from thy passions. Pray that we who sing thy praises may also be delivered from our passions, through thine intercessions.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -190,15 +202,13 @@ I have buried Thine image and have broken Thy commandment. All my beauty is dest
 
 Turn back, repent, and uncover all that thou hast hidden. Come and say unto God, to Whom all things are known: Thou alone knowest all my secrets, O Savior, ‘have mercy on me’, as David sings, ‘according to Thy mercy’.
 
-Venerable Mother Mary, pray to God for us.
+*Venerable Mother Mary, pray to God for us.*
 
-To St Mary of Egypt: By raising thy cry to the Most-pure Theotokos, thou hast driven back the fury of the passions that had violently assailed thee, putting to shame the enemy that tempted thee. But grant thy help to me, thy servant, in this, my time of trouble.
+**To St Mary of Egypt:** By raising thy cry to the Most-pure Theotokos, thou hast driven back the fury of the passions that had violently assailed thee, putting to shame the enemy that tempted thee. But grant thy help to me, thy servant, in this, my time of trouble.
 
-Venerable Mother Mary, pray to God for us.
+*Venerable Mother Mary, pray to God for us.*
 
-To St Mary of Egypt: Pray to Him Whom thou hast loved, pray to Him Whom thou hast desired, and for Whose sake thou hast exhausted thy flesh, O
-
-Venerable Mary; pray to Christ for us, thy servants, that He may show mercy on us all, and grant peace to those who worship Him.
+**To St Mary of Egypt:** Pray to Him Whom thou hast loved, pray to Him Whom thou hast desired, and for Whose sake thou hast exhausted thy flesh, O Venerable Mary; pray to Christ for us, thy servants, that He may show mercy on us all, and grant peace to those who worship Him.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -225,11 +235,14 @@ Spare the work of Thine hands, O Savior, and as the Shepherd, seek the lost she
 
 When Thou sittest upon Thy throne, O merciful Judge, and revealest Thy dread glory, O what fear there will be then; when the furnace shall burn, and all shall tremble before the majesty of Thy Judgement seat, O Christ!
 
-Venerable Mother Mary, pray to God for us.
 
-To St Mary of Egypt: The Mother of the eternal Light hath illumined thee and freed thee from the darkness of the passions. Therefore, having received the Grace of the Spirit, O Mary, enlighten even us who praise thee now in faith.
+*Venerable Mother Mary, pray to God for us.*
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Beholding in thee a new wonder, O Venerable Mother, the holy Zosimas was truly amazed; for he saw an Angel in the flesh, and was filled with great astonishment, praising Christ unto all ages.
+**To St Mary of Egypt:** The Mother of the eternal Light hath illumined thee and freed thee from the darkness of the passions. Therefore, having received the Grace of the Spirit, O Mary, enlighten even us who praise thee now in faith.
+
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Beholding in thee a new wonder, O Venerable Mother, the holy Zosimas was truly amazed; for he saw an Angel in the flesh, and was filled with great astonishment, praising Christ unto all ages.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
@@ -258,9 +271,14 @@ Do not require of me worthy fruits of repentance, for my strength has failed wit
 
 O my Judge Who knowest me, look upon me with Thy merciful eye when Thou comest again with the Angels to judge the whole world, and spare me; take pity on me, O Jesus, for I have sinned more than any other.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Thou didst astonish both the ranks of Angels and the assemblies of men by thy wondrous life, O Mother Mary; for by living in the spirit thou hast surpassed all nature, and like a bodiless Angel, thou didst cross the River Jordan as if with immaterial feet.
 
-Venerable Mother Mary, pray to God for us. To St Mary of Egypt: Intercede with the Creator for us who sing thy praises, O Venerable Mother Mary, that we may be set free from the sufferings and afflictions that assail us from every side, and that being delivered from misfortunes we may unceasingly magnify the Lord Who has glorified thee.
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Thou didst astonish both the ranks of Angels and the assemblies of men by thy wondrous life, O Mother Mary; for by living in the spirit thou hast surpassed all nature, and like a bodiless Angel, thou didst cross the River Jordan as if with immaterial feet.
+
+*Venerable Mother Mary, pray to God for us.*
+
+**To St Mary of Egypt:** Intercede with the Creator for us who sing thy praises, O Venerable Mother Mary, that we may be set free from the sufferings and afflictions that assail us from every side, and that being delivered from misfortunes we may unceasingly magnify the Lord Who has glorified thee.
 
 
 _Venerable Father Andrew, pray to God for us._

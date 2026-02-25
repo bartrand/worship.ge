@@ -169,7 +169,7 @@ Thou hast preferred, O my soul, the meat of swine and the tempting food of Egyp
 
 When Thy servant Moses struck the rock with his staff, O Savior, he mystically foreshadowed Thy Life-creating Body from which we all draw the water of life.
 
-Be like Joshua, the son of Nun, and explore the Promised Land, O my soul, and take up thine abOde in it through obedience to the Law.
+Be like Joshua, the son of Nun, and explore the Promised Land, O my soul, and take up thine abode in it through obedience to the Law.
 
 
 _Glory to the Father and to the Son and to the Holy Spirit._
